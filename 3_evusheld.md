@@ -1,6 +1,6 @@
 ---
 title: Learn more about Evusheld
-layout: landing
+layout: page
 description: 'Find out more about this life-changing treatment.'
 image: assets/images/pic07.jpg
 nav-menu: true

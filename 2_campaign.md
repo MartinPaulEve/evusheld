@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Help us Campaign
 description: 'We need your involvement'
 image: assets/images/pic11.jpg
