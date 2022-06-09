@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Elements
+title: Patient stories
+description: Why is Evusheld so important?
 image: assets/images/pic01.jpg
 nav-menu: true
 ---

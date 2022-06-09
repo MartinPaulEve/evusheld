@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Learn more about Evusheld
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Find out more about this life-changing treatment.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
