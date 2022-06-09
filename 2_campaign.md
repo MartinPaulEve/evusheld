@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Help us Campaign
-description: 'We need your involvement'
+description: 'We need your help.'
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
