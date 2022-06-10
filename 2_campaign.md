@@ -17,7 +17,7 @@ It is vital, therefore, that the group remains a-political and maintains a profe
 ## Write to Your MP and Members of the House of Lords
 One of the most important actions that you can take is to [write to your MP](https://www.writetothem.com/write).
 
-To make this effective, we have created [a template letter](/assets/downloads/Template-Letter-for-MPs.docx) that you can use to write effectively. Importanly, you should change this letter. Boilerplate letters tend to get standard responses, whereas a personally crafted letter will make much more of a difference.
+To make this effective, we have created [a template letter](/assets/downloads/Template-Letter-for-MPs.docx) that you can use. Importantly, you should change this letter. Boilerplate letters tend to get standard responses, whereas a personally crafted letter will make much more of a difference.
 
 ## Make Media Contact
 We need to generate as much attention as possible for this issue. If you have contacts in the media, or work in the media yourself, please [get in touch with us](mailto:martin@eve.gd).
