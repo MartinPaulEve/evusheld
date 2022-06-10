@@ -34,4 +34,4 @@ This is clearly not the case. First, the government's strategy of vaccination is
 Second, antiviral treatments have proved difficult to access in a timely fashion and are contra-indicated with many health conditions. These therapies also put vulnerable people in the position of risking serious illness before they are treated, while the rest of the population has prophylactic treatments in vaccines.
 
 ## Who Supports Evusheld?
-MPs from all parties have been supporting this cause, including Graham Stuart, Vicky Foxcroft, Caroline Lucas, Andrew Gwynne, and Daisy Cooper. Lord Mendelsohn has also been a champion in the House of Lords.
+MPs from all parties have been engaged with this cause, including Graham Stuart, Vicky Foxcroft, Caroline Lucas, Andrew Gwynne, Daisy Cooper, Catherine West, Flick Drummond, Layla MOran, Stephen Crabb, Paul Davies, Munira Wilson, and Daniel Zeichner. Lord Mendelsohn has also been a champion in the House of Lords and we have also had supportive engagement from Baroness Morgan and Baroness Brinton.
