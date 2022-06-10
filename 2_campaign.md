@@ -6,14 +6,19 @@ image: assets/images/pic11.jpg
 nav-menu: true
 ---
 ## Join the Group
-Our primary gathering place is on the [Evusheld for the UK Facebook Group](https://www.facebook.com/groups/692949675108155/). If you are on Facebook, do please join us there. This group exists for one purpose: to get this drug introduced in the UK with access for all those who need it. We also have [a Twitter feed](https://twitter.com/evusheld4theuk) with up-to-date information. 
+Our primary gathering place is on the [Evusheld for the UK Facebook Group](https://www.facebook.com/groups/692949675108155/). If you are on Facebook, do please join us there. We also have [a Twitter feed](https://twitter.com/evusheld4theuk) with up-to-date information. 
 
-AstraZeneca’s Evusheld is a preventative (“prophylactic”) treatment for Covid, approved for UK use on the 17th March 2022. However, there has been no progress since then on the drug’s accessibility on the NHS or privately. This has prolonged the shielding imposed on so many of us across the UK. 
+## What Does the Group Do?
+AstraZeneca’s Evusheld is a preventative (“prophylactic”) treatment for Covid, approved for UK use on the 17th March 2022. However, there has been no progress since then on the drug’s accessibility on the NHS or privately. This has prolonged the shielding imposed on so many of us across the UK.
 
+Our group exists for one purpose: to get this drug introduced in the UK with access for all those who need it.
+
+## Who Do We Work With?
 To achieve our goal we need to enlist support from across the political spectrum. We need support from people in media, in health, and in any other avenue that will benefit us. Anybody with influence can help our campaign.
 
 It is vital, therefore, that the group remains a-political and maintains a professional outlook in our communications and image. While many members will be frustrated at two years of isolation and may feel let down, we must work across political divides to seek allies wherever they may be. Hence, we want to keep political discussion off the group page. Further, we expect civility, politeness, and respect from all members of the group.
 
+# What Can I Do?
 ## Write to Your MP and Members of the House of Lords
 One of the most important actions that you can take is to [write to your MP](https://www.writetothem.com/write).
 

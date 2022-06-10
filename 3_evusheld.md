@@ -20,7 +20,7 @@ Evusheld is now available in other comparable countries, such as France, Canada,
 The UK government, however, has made no moves towards purchasing Evusheld so far. If 500,000 patients required the drug, we understand it would cost the taxpayer just £400m. This is just 4% of the cost of the PPE that was written off early in the Covid pandemic.
 
 ## Are the Negotiations Around Evusheld "Commercially Sensitive"?
-A frequent response from MPs has been tha they cannot discuss Evusheld because the negotiations are "commercially sensitive".
+A frequent response from MPs has been that they cannot discuss Evusheld because the negotiations are "commercially sensitive".
 
 However, the Policy and Communications Lead of Vaccines for Astra Zeneca said:
 
