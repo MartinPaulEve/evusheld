@@ -31,12 +31,12 @@ nav-menu: true
 <p>Evusheld could give Chloe back her life. So much of it has already been wasted that she wants to work, travel, get a house, but most of all she’d just love to be able to go to a coffee shop, or pub and enjoy a meal out.</p>
 
 <h3>Martin: The Rheumatoid Arthritis Patient</h3>
-<p><span class="image left"><img src="{% link assets/images/martin.jpg %}" alt="Martin" />Martin in a 36-year-old university professor with rheumatoid arthritis and vasculitis. In 2016 he had a stroke due to his conditions.</p>
+<p><span class="image left"><img src="{% link assets/images/martin.jpg %}" alt="Martin" /></span>Martin in a 36-year-old university professor with rheumatoid arthritis and vasculitis. In 2016 he had a stroke due to his conditions.</p>
 
 <p>Importantly, Martin is treated with high doses of steroids and with immunosuppressive drugs. He has had rituximab, tocilizumab, and baricitinib among others. These led to Martin developing panhypogammaglobulinemia and secondary immune deficiency. Essentially, he has no immune system.</p>
 
 <p>Before the pandemic, Martin was used to travelling the world for speaking engagements. He would be in Tokyo one day, at Harvard the next, and then Glasgow the day after.</p>
 
-<p>All that changed in 2020. Martin is well supported by his employer who allows him to work remotely, but he has spent two years in near total isolation, only venturing out of the house for walks with his adopted dog, Toby. Despite five vaccinations, Martin still has no antibody protection for Covid and he meets three of the criteria for those who remain exceptionally vulnerable.</p>
+<p>All that changed in 2020. Martin is well-supported by his employer who allows him to work remotely, but he has spent two years in near total isolation, only venturing out of the house for walks with his adopted dog, Toby. Despite five vaccinations, Martin still has no antibody protection for Covid and he meets three of the criteria for those who remain exceptionally vulnerable.</p>
 
 <p>Evusheld could free Martin. It would allow him to get back to his life and job and to have a richer ongoing existence.</p>
