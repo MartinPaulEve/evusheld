@@ -39,3 +39,8 @@ Articles marked [PREPRINT] have not necessarily been subject to [peer review](ht
 
 ## Events
 * AstraZeneca. 2022. ‘[The Unmet Needs of Immunocompromised Patients Post-COVID 19](https://www.politico.eu/event/the-unmet-needs-of-immunocompromised-patients-post-covid-19/)’. _POLITICO_. 9 June 2022.
+
+## Media
+
+<iframe src="https://player.vimeo.com/video/719537557?h=78adcb4cb9" width="640" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/719537557">BBC News - 3pm - 21 February 2022</a> from <a href="https://vimeo.com/shannonleebanks">Shannon Banks</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
