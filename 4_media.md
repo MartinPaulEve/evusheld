@@ -8,6 +8,7 @@ nav-menu: true
 ## Media Coverage
 These are articles in mainstream media/press releases, in reverse chronological order.
 
+* Shapiro, Lindsey. 2022. ‘[Evusheld Boosts Antibodies Against COVID-19 in Vaccinated MS Patients](https://multiplesclerosisnewstoday.com/news-posts/2022/06/10/evusheld-boosts-antibodies-against-covid-19-vaccinated-ms-patients/)’. _Multiple Sclerosis News Today_ (blog). 10 June 2022.
 * ‘[Evusheld Significantly Prevented COVID-19 Disease Progression or Death in Tackle Phase III Treatment Trial](https://www.zawya.com/en/press-release/companies-news/evusheld-significantly-prevented-covid-19-disease-progression-or-death-in-tackle-phase-iii-treatment-trial-appg120c)’. 2022. _Zawya_. 10 June 2022.
 * ‘[AstraZeneca’s Evusheld Prevents Disease Progression in Phase III Covid-19 Trial](https://www.clinicaltrialsarena.com/news/astrazeneca-evusheld-covid-trial-2/)’. 2022. _Clinical Trials Arena_ (blog). 9 June 2022.
 * AstraZeneca. 2022. ‘[Evusheld Significantly Prevented COVID-19 Disease Progression or Death in TACKLE Phase III Treatment Trial](https://www.astrazeneca.com/media-centre/press-releases/2022/evusheld-significantly-prevented-covid-19-disease-progression-or-death-in-tackle-phase-iii-treatment-trial.html)’. 8 June 2022.
@@ -28,6 +29,7 @@ These are formal research studies demonstrating the efficacy of Evusheld. These 
 
 Articles marked [PREPRINT] have not necessarily been subject to [peer review](https://en.wikipedia.org/wiki/Peer_review).
 
+* Conte, William L., and Lilian Golzarri-Arroyo. 2022. ‘[Tixagevimab and Cilgavimab (Evusheld) Boosts Antibody Levels to SARS-CoV-2 in Patients with Multiple Sclerosis on b-Cell Depleters](https://doi.org/10.1016/j.msard.2022.103905)’. _Multiple Sclerosis and Related Disorders_ 63 (July): 103905.
 * NHS England RAPID-C19. 2022. ‘[Defining the Highest-Risk Clinical Subgroups upon Community Infection with SARS-CoV-2 When Considering the Use of Neutralising Monoclonal Antibodies (NMABs) and Antiviral Drugs: Independent Advisory Group Report](https://www.gov.uk/government/publications/higher-risk-patients-eligible-for-covid-19-treatments-independent-advisory-group-report/defining-the-highest-risk-clinical-subgroups-upon-community-infection-with-sars-cov-2-when-considering-the-use-of-neutralising-monoclonal-antibodies)’. _GOV.UK_. 30 May 2022.
 * Shields, Adrian M, Ariharan Anantharachagan, Gururaj Arumugakani, Kenneth Baker, Sameer Bahal, Helen Baxendale, William Bermingham, et al. 2022. ‘[Outcomes Following SARS-CoV-2 Infection in Patients with Primary and Secondary Immunodeficiency in the UK](https://doi.org/10.1093/cei/uxac008)’. _Clinical and Experimental Immunology_, January, uxac008.
 * Stuver, Robert, Gunjan L. Shah, Neha S. Korde, Lindsey E. Roeker, Anthony R. Mato, Connie L. Batlevi, David J. Chung, et al. 2022. ‘[Activity of AZD7442 (Tixagevimab-Cilgavimab) against Omicron SARS-CoV-2 in Patients with Hematologic Malignancies](https://doi.org/10.1016/j.ccell.2022.05.007)’. _Cancer Cell_, May.
