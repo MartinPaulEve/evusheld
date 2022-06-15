@@ -27,7 +27,7 @@ nav-menu: true
 <p>Before the pandemic, Shannon would travel the world with her team and clients. When the pandemic hit and she started shielding, she moved all of her work online to immersive, experiential virtual workshops. In recent months her team has moved back to delivering some work in person but Shannon is not travelling and continues to shield.</p>
 <p>Shannon is unable to take many of the preventative medications that could protect her from Covid. Her first vaccination in February 2021 resulted in a lupus flare, with heart complications that led to hospitalisation. As a result, she has not been able to get further jabs. Owing to interactions with her lupus medications, Shannon also cannot have the antiviral treatment, Paxlovid.</p>
 <p>Because of her immunosuppressive lupus medication, Shannon has no B cells and no Covid antibodies. Given her high-risk situation, she has been shielding this school year separately to her husband and daughter.</p>
-<p>If Shannon could get protection with Evusheld, it would reduce her risks and she would be able to live together with my family again.</p>
+<p>If Shannon could get protection with Evusheld, it would reduce her risks and she would be able to live together with her family again.</p>
 
 <h3>Diana: The Kidney Transplant Patient</h3>
 <p><span class="image left"><img src="{% link assets/images/diana.jpg %}" alt="Diana" /></span>Diana is a 63-year-old woman who had a kidney and pancreas transplant 15 years ago, after enduring type 1 diabetes for 36 years. She has a long-term background in nursing and care work but has retired on grounds of ill health. She is currently having eye injections monthly to save her eyesight after retinopathy.</p> 
