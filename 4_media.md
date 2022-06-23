@@ -27,11 +27,12 @@ These are articles in mainstream media/press releases, in reverse chronological 
 
 
 ## Research Articles, Preprints, Medical Opinion Pieces, and Policy Documents
-These are formal research studies demonstrating the efficacy of Evusheld. These are arranged by alphabetical order of first author.
+These are formal research studies into the efficacy and dosage of Evusheld. These are arranged by alphabetical order of first author. We list here all articles (attempting a comprehensive literature review) rather than merely those with positive findings.
 
 Articles marked [PREPRINT] have not necessarily been subject to [peer review](https://en.wikipedia.org/wiki/Peer_review).
 
 * Benotmane, Ilies, Aurélie Velay, Gabriela Gautier Vargas, Jérôme Olagne, Olivier Thaunat, Samira Fafi-Kremer, and Sophie Caillard. ‘[Pre-Exposure Prophylaxis with 300 Mg Evusheld Elicits Limited Neutralizing Activity against the Omicron Variant](https://doi.org/10.1016/j.kint.2022.05.008)’. _Kidney International_, 24 May 2022, S0085-2538(22)00383-0.
+* Benotmane, Ilies, Aurélie Velay, Gabriela Gautier Vargas, Jérôme Olagne, Augustin Obrecht, Noëlle Cognard, Francoise Heibel, et al. ‘[Breakthrough COVID-19 Cases despite Prophylaxis with 150 Mg of Tixagevimab and 150 Mg of Cilgavimab in Kidney Transplant Recipients](https://doi.org/10.1111/ajt.17121)’. _American Journal of Transplantation_. Accessed 23 June 2022.
 * Boschi, Céline, Philippe Colson, Audrey Bancod, Valérie Moal, and Bernard La Scola. ‘[Omicron Variant Escapes Therapeutic Monoclonal Antibodies (MAbs) Including Recently Released Evusheld®, Contrary to 8 Prior Main Variant of Concern (VOC)](https://doi.org/10.1093/cid/ciac143)’. _Clinical Infectious Diseases_, 16 February 2022, ciac143.
 * Bruel, Timothée, Jérôme Hadjadj, Piet Maes, Delphine Planas, Aymeric Seve, Isabelle Staropoli, Florence Guivel-Benhassine, et al. ‘[Serum Neutralization of SARS-CoV-2 Omicron Sublineages BA.1 and BA.2 in Patients Receiving Monoclonal Antibodies](https://doi.org/10.1038/s41591-022-01792-5)’. _Nature Medicine_ 28, no. 6 (June 2022): 1297–1302.
 * Chavda, Vivek P., Riddhi Prajapati, Disha Lathigara, Bhumi Nagar, Jay Kukadiya, Elrashdy M. Redwan, Vladimir N. Uversky, Mukesh N. Kher, and Rajvi Patel. ‘[Therapeutic Monoclonal Antibodies for COVID-19 Management: An Update](https://doi.org/10.1080/14712598.2022.2078160)’. _Expert Opinion on Biological Therapy_ 22, no. 6 (June 2022): 763–80.
