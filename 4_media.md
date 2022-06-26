@@ -5,9 +5,12 @@ description: 'Read about Evusheld in the media.'
 image: assets/images/media.png
 nav-menu: true
 ---
+This page contains media coverage, research articles, preprints, medical opinion pieces, and policy documents. If we are missing items, please email them to [the maintainer](mailto:martin@eve.gd).
+
 ## Media Coverage
 These are articles in mainstream media/press releases, in reverse chronological order.
 
+* Sharp, Christopher. ‘[Blood Cancer UK Says Government “Needs to Do More” amid Battle for Evusheld](https://www.express.co.uk/life-style/health/1629554/blood-cancer-uk-treatment-evusheld-covid)’. Express.co.uk, 26 June 2022.
 * Evusheld for the UK. 2022. ‘[UK “Outlier” in Not Protecting 500,000+ Vulnerable Patients with New Lifesaving Drug. AstraZeneca Denies Government Claims of Further Testing](/assets/downloads/2022-06-21-Press-Release.pdf)’. 21 June 2022.
 * Shapiro, Lindsey. 2022. ‘[Evusheld Boosts Antibodies Against COVID-19 in Vaccinated MS Patients](https://multiplesclerosisnewstoday.com/news-posts/2022/06/10/evusheld-boosts-antibodies-against-covid-19-vaccinated-ms-patients/)’. _Multiple Sclerosis News Today_ (blog). 10 June 2022.
 * ‘[Evusheld Significantly Prevented COVID-19 Disease Progression or Death in Tackle Phase III Treatment Trial](https://www.zawya.com/en/press-release/companies-news/evusheld-significantly-prevented-covid-19-disease-progression-or-death-in-tackle-phase-iii-treatment-trial-appg120c)’. 2022. _Zawya_. 10 June 2022.
