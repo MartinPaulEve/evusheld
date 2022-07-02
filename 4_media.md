@@ -64,6 +64,11 @@ Articles marked [PREPRINT] have not necessarily been subject to [peer review](ht
 * [PREPRINT] Young-Xu, Yinong, Lauren Epstein, Vincent C. Marconi, Victoria Davey, Gabrielle Zwain, Jeremy Smith, Caroline Korves, Fran Cunningham, Robert Bonomo, and Adit A. Ginde. 2022. ‘[Tixagevimab/Cilgavimab for Prevention of COVID-19 during the Omicron Surge: Retrospective Analysis of National VA Electronic Data](https://doi.org/10.1101/2022.05.28.22275716)’. _medRxiv_.
 * Loo, Yueh-Ming, Patrick M. McTamney, Rosalinda H. Arends, Michael E. Abram, Anastasia A. Aksyuk, Seme Diallo, Daniel J. Flores, et al. ‘[The SARS-CoV-2 Monoclonal Antibody Combination, AZD7442, Is Protective in Nonhuman Primates and Has an Extended Half-Life in Humans](https://doi.org/10.1126/scitranslmed.abl8124)’. _Science Translational Medicine_ 14, no. 635 (9 March 2022): eabl8124.
 
+## Secondary References
+This secondary bibliography presents a selection of references on topics not directly related to Evusheld but that are of interest (e.g. the mental health implications of shielding).
+
+* Daniels, Jo, and Hannah Rettie. ‘[The Mental Health Impact of the COVID-19 Pandemic Second Wave on Shielders and Their Family Members](https://doi.org/10.3390/ijerph19127333)’. International Journal of Environmental Research and Public Health 19, no. 12 (January 2022): 7333.
+
 ## Events
 * AstraZeneca. 2022. ‘[The Unmet Needs of Immunocompromised Patients Post-COVID 19](https://www.politico.eu/event/the-unmet-needs-of-immunocompromised-patients-post-covid-19/)’. _POLITICO_. 9 June 2022.
 
