@@ -11,7 +11,7 @@ Our primary gathering place is on the [Evusheld for the UK Facebook Group](https
 ## What Does the Group Do?
 AstraZeneca’s Evusheld is a preventative (“prophylactic”) treatment for Covid, approved for UK use on the 17th March 2022. However, there has been no progress since then on the drug’s accessibility on the NHS or privately. This has prolonged the shielding imposed on so many of us across the UK.
 
-Our group exists for one purpose: to get this drug introduced in the UK with access for all those who need it.
+Our group exists for one purpose: to get this drug introduced in the UK with access for all those who need it. This includes roll out to all vulnerable people who are less likely to have mounted a response to vaccination, as listed in the NHS England RAPID-C19 report ‘[Defining the Highest-Risk Clinical Subgroups upon Community Infection with SARS-CoV-2 When Considering the Use of Neutralising Monoclonal Antibodies (NMABs) and Antiviral Drugs: Independent Advisory Group Report](https://www.gov.uk/government/publications/higher-risk-patients-eligible-for-covid-19-treatments-independent-advisory-group-report/defining-the-highest-risk-clinical-subgroups-upon-community-infection-with-sars-cov-2-when-considering-the-use-of-neutralising-monoclonal-antibodies)’.
 
 ## Who Do We Work With?
 To achieve our goal we need to enlist support from across the political spectrum. We need support from people in media, in health, and in any other avenue that will benefit us. Anybody with influence can help our campaign.
