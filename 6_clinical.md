@@ -2,7 +2,7 @@
 layout: page
 title: Clinical Consultation
 description: Consultation for an independent clinical consensus statement for protective measures
-image: assets/images/support.png
+image: assets/images/clinical.png
 nav-menu: true
 ---
 We are pleased to announce a significant step forward today, 5th July 2022. Dr. Lennard Lee of Oxford University, the co-lead for the UK Coronavirus Cancer Program and a staunch supporter of our campaign, has [launched a new initiative to garner clinical consensus on Evusheld](/assets/downloads/2022-07-05-APPG.pdf). Lord Mendelssohn and the All-Party Parliamentary Group (APPG) for CEV have commissioned the consultation to gain evidence from high-level clinicians across various disciplines, in support of Evusheld.
