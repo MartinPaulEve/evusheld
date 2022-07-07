@@ -8,11 +8,13 @@ nav-menu: true
 This page contains media coverage, research articles, preprints, medical opinion pieces, and policy documents. If we are missing items, please email them to [the maintainer](mailto:martin@eve.gd).
 
 ## Media Coverage
-These are articles in mainstream media/press releases, in reverse chronological order.
+These are articles in mainstream media/press releases about Evusheld in the UK, in reverse chronological order.
 
+* Davies, Joe. ‘[Calls for UK to Stock up on Covid Drug That Slashes Illness by 80%](https://www.msn.com/en-gb/health/medical/calls-for-uk-to-stock-up-on-covid-drug-that-slashes-illness-by-80percent/ar-AAZj9Mf)’. _Daily Mail_, 7 July 2022.
+* Lay, Kat. ‘[Calls Grow for Government to Order Covid Drug to Boost Protection for Vulnerable](https://www.thetimes.co.uk/article/calls-grow-for-government-to-order-covid-drug-to-boost-protection-for-vulnerable-h6x7gq229)’. _The Times_, 6 July 2022, sec. news.
 * Lennard, Lee. ‘[Consultation for an Independent Clinical Consensus Statement for Protective Measures for VGP](/assets/downloads/2022-07-05-APPG.pdf)’. All-Party Parliamentary Group on Vulnerable Groups to Pandemics, 5 July 2022.
 * Ennals, Ethan. ‘[Will Covid Drug Evusheld Be Offered to Brits Who Don’t Respond to Jab?](https://www.dailymail.co.uk/health/article-10976341/Will-Covid-drug-Evusheld-offered-vulnerable-Britons-dont-respond-vaccine.html)’. _Mail Online_, 2 July 2022.
-* Sharp, Christopher. ‘[Blood Cancer UK Says Government “Needs to Do More” amid Battle for Evusheld](https://www.express.co.uk/life-style/health/1629554/blood-cancer-uk-treatment-evusheld-covid)’. Express.co.uk, 26 June 2022.
+* Sharp, Christopher. ‘[Blood Cancer UK Says Government “Needs to Do More” amid Battle for Evusheld](https://www.express.co.uk/life-style/health/1629554/blood-cancer-uk-treatment-evusheld-covid)’. _Express.co.uk_, 26 June 2022.
 * Evusheld for the UK. 2022. ‘[UK “Outlier” in Not Protecting 500,000+ Vulnerable Patients with New Lifesaving Drug. AstraZeneca Denies Government Claims of Further Testing](/assets/downloads/2022-06-21-Press-Release.pdf)’. 21 June 2022.
 * Shapiro, Lindsey. 2022. ‘[Evusheld Boosts Antibodies Against COVID-19 in Vaccinated MS Patients](https://multiplesclerosisnewstoday.com/news-posts/2022/06/10/evusheld-boosts-antibodies-against-covid-19-vaccinated-ms-patients/)’. _Multiple Sclerosis News Today_ (blog). 10 June 2022.
 * ‘[Evusheld Significantly Prevented COVID-19 Disease Progression or Death in Tackle Phase III Treatment Trial](https://www.zawya.com/en/press-release/companies-news/evusheld-significantly-prevented-covid-19-disease-progression-or-death-in-tackle-phase-iii-treatment-trial-appg120c)’. 2022. _Zawya_. 10 June 2022.
