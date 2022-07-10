@@ -10,6 +10,7 @@ This page contains media coverage, research articles, preprints, medical opinion
 ## Media Coverage
 These are articles in mainstream media/press releases about Evusheld in the UK, in reverse chronological order.
 
+* Cardiomyopathy UK. ‘[A Statement on Evusheld](https://www.cardiomyopathy.org/news-blogs/latest-news/evusheld)’, 8 July 2021.
 * Davies, Joe. ‘[Calls for UK to Stock up on Covid Drug That Slashes Illness by 80%](https://www.msn.com/en-gb/health/medical/calls-for-uk-to-stock-up-on-covid-drug-that-slashes-illness-by-80percent/ar-AAZj9Mf)’. _Daily Mail_, 7 July 2022.
 * Lay, Kat. ‘[Calls Grow for Government to Order Covid Drug to Boost Protection for Vulnerable](https://www.thetimes.co.uk/article/calls-grow-for-government-to-order-covid-drug-to-boost-protection-for-vulnerable-h6x7gq229)’. _The Times_, 6 July 2022, sec. news.
 * Lennard, Lee. ‘[Consultation for an Independent Clinical Consensus Statement for Protective Measures for VGP](/assets/downloads/2022-07-05-APPG.pdf)’. All-Party Parliamentary Group on Vulnerable Groups to Pandemics, 5 July 2022.
@@ -39,6 +40,7 @@ These are formal research studies into the efficacy and dosage of Evusheld. Thes
 Articles marked [PREPRINT] have not necessarily been subject to [peer review](https://en.wikipedia.org/wiki/Peer_review).
 
 * ‘[COVID-19 Update: Hypersensitivity Reactions with Tixagevimab/Cilgavimab (Evusheld)](https://secure.medicalletter.org/TML-article-1654d)’. The Medical Letter on Drugs and Therapeutics 64, no. 1654 (11 July 2022): 112.
+* Atluri, Kavya, Iris Aimlin, and Shitij Arora. ‘[Current Effective Therapeutics in Management of COVID-19](https://doi.org/10.3390/jcm11133838)’. Journal of Clinical Medicine 11, no. 13 (1 July 2022): 3838.
 * Benotmane, Ilies, Aurélie Velay, Gabriela Gautier Vargas, Jérôme Olagne, Olivier Thaunat, Samira Fafi-Kremer, and Sophie Caillard. ‘[Pre-Exposure Prophylaxis with 300 Mg Evusheld Elicits Limited Neutralizing Activity against the Omicron Variant](https://doi.org/10.1016/j.kint.2022.05.008)’. _Kidney International_, 24 May 2022, S0085-2538(22)00383-0.
 * Benotmane, Ilies, Aurélie Velay, Gabriela Gautier Vargas, Jérôme Olagne, Augustin Obrecht, Noëlle Cognard, Francoise Heibel, et al. ‘[Breakthrough COVID-19 Cases despite Prophylaxis with 150 Mg of Tixagevimab and 150 Mg of Cilgavimab in Kidney Transplant Recipients](https://doi.org/10.1111/ajt.17121)’. _American Journal of Transplantation_. Accessed 23 June 2022.
 * Boschi, Céline, Philippe Colson, Audrey Bancod, Valérie Moal, and Bernard La Scola. ‘[Omicron Variant Escapes Therapeutic Monoclonal Antibodies (MAbs) Including Recently Released Evusheld®, Contrary to 8 Prior Main Variant of Concern (VOC)](https://doi.org/10.1093/cid/ciac143)’. _Clinical Infectious Diseases_, 16 February 2022, ciac143.
