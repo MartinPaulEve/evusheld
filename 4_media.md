@@ -8,9 +8,10 @@ nav-menu: true
 This page contains media coverage, research articles, preprints, medical opinion pieces, and policy documents. If we are missing items, please email them to [the maintainer](mailto:martin@eve.gd).
 
 ## Media Coverage
-These are articles in mainstream media/press releases about Evusheld in the UK, in reverse chronological order.
+These are articles in mainstream media/press releases about Evusheld in the UK, in reverse chronological order. It also includes statements from major UK charities on the drug.
 
-* Cardiomyopathy UK. ‘[A Statement on Evusheld](https://www.cardiomyopathy.org/news-blogs/latest-news/evusheld)’, 8 July 2021.
+* Sarcoidosis UK. ‘[SarcoidosisUK Evusheld Statement](https://www.sarcoidosisuk.org/information-hub/evusheld/)’. _SarcoidosisUK_, 10 July 2022.
+* Cardiomyopathy UK. ‘[A Statement on Evusheld](https://www.cardiomyopathy.org/news-blogs/latest-news/evusheld)’. _Cardiomyopathy UK_, 8 July 2021.
 * Davies, Joe. ‘[Calls for UK to Stock up on Covid Drug That Slashes Illness by 80%](https://www.msn.com/en-gb/health/medical/calls-for-uk-to-stock-up-on-covid-drug-that-slashes-illness-by-80percent/ar-AAZj9Mf)’. _Daily Mail_, 7 July 2022.
 * Lay, Kat. ‘[Calls Grow for Government to Order Covid Drug to Boost Protection for Vulnerable](https://www.thetimes.co.uk/article/calls-grow-for-government-to-order-covid-drug-to-boost-protection-for-vulnerable-h6x7gq229)’. _The Times_, 6 July 2022, sec. news.
 * Lennard, Lee. ‘[Consultation for an Independent Clinical Consensus Statement for Protective Measures for VGP](/assets/downloads/2022-07-05-APPG.pdf)’. All-Party Parliamentary Group on Vulnerable Groups to Pandemics, 5 July 2022.
