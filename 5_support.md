@@ -5,6 +5,12 @@ description: The psychological effects of ongoing shielding are real
 image: assets/images/support.png
 nav-menu: true
 ---
+<h2>Workplace Support</h2>
+
+For those being forced back into unsafe workplaces, the [advice from Kidney Care UK may be of use](https://www.kidneycareuk.org/news-and-campaigns/news/safeatwork-coalition-downloadable-letter/).
+
+<h2>Psychological Support</h2>
+
 This piece has been written and donated by a Clinical Psychologist who is also clinically extremely vulnerable. We present this information in the hope that it is helpful. However, if you are depressed or feel suicidal, this is not a substitute for medical advice and you should seek professional help. [The Wren Project](https://www.wrenproject.org/) also provides listening support for people with autoimmune conditions.
 
 <h2>Managing the wait – how to look after ourselves during shielding</h2>
