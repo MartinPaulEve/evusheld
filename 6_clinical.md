@@ -1,16 +1,23 @@
 ---
 layout: page
-title: Clinical Consultation
-description: Consultation for an independent clinical consensus statement for protective measures
+title: Charity Letter and Clinical Consultation
+description: 18 charities and 125 clinicians call for Evusheld
 image: assets/images/clinical.png
 nav-menu: true
 ---
-We are pleased to announce a significant step forward today, 5th July 2022. Dr. Lennard Lee of Oxford University, the co-lead for the UK Coronavirus Cancer Program and a staunch supporter of our campaign, has [launched a new initiative to garner clinical consensus on Evusheld](/assets/downloads/2022-07-05-APPG.pdf). Lord Mendelssohn and the All-Party Parliamentary Group (APPG) for CEV have commissioned the consultation to gain evidence from high-level clinicians across various disciplines, in support of Evusheld.
+On Sunday the 31st July 2022, 18 national charities and 125 clinicians called for the immediate availability of Evusheld for the UK’s clinically vulnerable population. The move follows months of government delays and uncertainty for the hundreds of thousands of people still shielding in the United Kingdom.
 
-The APPG is a cross-party group, demonstrating that we have MPs and Lords from all sides uniting to push for Evusheld. We have been channeling information to the group to help with this push.
+In [a letter to the Secretary of State for Health published in the Mail on Sunday](https://getevusheld.uk/assets/downloads/2022-07-31-Letter-to-Steve-Barclay.pdf), the charities wrote that 
 
-The consultation is targeted only at medical professionals to give an expert opinion. This will demonstrate that we have solid clinical backing. When this reaches critical momentum, it will be a potent tool for our campaign. The consultation will conclude by the end of the month and will then be presented to the government. Given the size of the consultation and the stature of the people involved, we hope the government will not be able to refute it.
+> Evusheld and drugs like it represent an important step forward for this group, and must be considered as part of a broader strategy for living safely with Covid. Yet, despite being authorised by the UK’s MHRA on the 17th of March 2022, meeting the requisite standards for safety, quality and effectiveness, the drug remains unavailable anywhere in the UK, publicly or privately.
 
-We have been working with Dr. Lee and many national charities behind the scenes. They have a significant interest in getting this drug for the patients they represent and are backing the consultation. Once the consultation is complete, we will be in a position to present a unified call from our group across the patient, clinician, and political angles. This consultation can only strengthen our demand for Evusheld to the Health Minister.
+Simultaneously, under the coordination of Dr Lennard Lee (Oxford), [125 clinicians have today published an expert consensus statement](https://getevusheld.uk/assets/downloads/consensusstatement.pdf). The statement notes that
 
-If you are a clinical specialist, you can [participate in the consultation](https://protect-eu.mimecast.com/s/mnfACGv3jf1BVxpNc74_gI?domain=forms.office.com).
+> Patients who would derive meaningful benefit should be offered prophylactic antibody therapy [...] there is strong emerging evidence that prophylactic measures using monoclonal antibodies is an effective strategy for immunocompromised individuals.
+
+Evusheld is a combination of two long-acting antibodies (tixagevimab and cilgavimab) produced by AstraZeneca. It is designed to protect clinically vulnerable people against Covid in cases where vaccines don’t work; an estimated population of up to 500,000 people in the United Kingdom. The drug costs approximately £800 per dose and yields at least six months of protection. Up to 32 other countries are already using Evusheld and real-world data are showing reduced hospitalisations and deaths in the vulnerable patient cohort.
+
+Professor Martin Paul Eve, one of the campaign leaders of Evusheld for the UK, said:
+
+>Today’s statements are clear signals from the patient, charity, and clinician perspectives that Evusheld should be made available to protect clinically vulnerable people in the United Kingdom. The pact that government made with the public was that we would return to normal, but that we would protect the vulnerable. Clearly, the second part of this pact has not yet been fulfilled. Up to 500,000 people still live vastly reduced lives, many still shielding. The availability of Evusheld, backed by national charities and clinicians, would allow these groups to reclaim their lives as full members of society.
+ 
