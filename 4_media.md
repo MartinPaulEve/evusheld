@@ -43,6 +43,7 @@ These are formal research studies into the efficacy and dosage of Evusheld. Thes
 Articles marked [PREPRINT] have not necessarily been subject to [peer review](https://en.wikipedia.org/wiki/Peer_review).
 
 * ‘[COVID-19 Update: Hypersensitivity Reactions with Tixagevimab/Cilgavimab (Evusheld)](https://secure.medicalletter.org/TML-article-1654d)’. The Medical Letter on Drugs and Therapeutics 64, no. 1654 (11 July 2022): 112.
+* ‘[COVID-19 Update: Dosing Interval for Tixagevimab/Cilgavimab (Evusheld)](https://secure.medicalletter.org/TML-article-1656b)’. _The Medical Letter on Drugs and Therapeutics_, 8 August 2022.
 * ACTIV-3–Therapeutics for Inpatients with COVID-19 (TICO) Study Group. ‘[Tixagevimab–Cilgavimab for Treatment of Patients Hospitalised with COVID-19: A Randomised, Double-Blind, Phase 3 Trial](https://doi.org/10.1016/S2213-2600(22)00215-6)’. _The Lancet Respiratory Medicine_, 8 July 2022.
 * Atluri, Kavya, Iris Aimlin, and Shitij Arora. ‘[Current Effective Therapeutics in Management of COVID-19](https://doi.org/10.3390/jcm11133838)’. Journal of Clinical Medicine 11, no. 13 (1 July 2022): 3838.
 * Benotmane, Ilies, Aurélie Velay, Gabriela Gautier Vargas, Jérôme Olagne, Olivier Thaunat, Samira Fafi-Kremer, and Sophie Caillard. ‘[Pre-Exposure Prophylaxis with 300 Mg Evusheld Elicits Limited Neutralizing Activity against the Omicron Variant](https://doi.org/10.1016/j.kint.2022.05.008)’. _Kidney International_, 24 May 2022, S0085-2538(22)00383-0.
