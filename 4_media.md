@@ -10,6 +10,7 @@ This page contains media coverage, research articles, preprints, medical opinion
 ## Media Coverage
 These are articles in mainstream media/press releases about Evusheld in the UK, in reverse chronological order. It also includes statements from major UK charities on the drug.
 
+* Evusheld for the UK. 2022. ‘[Department of Health Plans to Deny Lifesaving Treatment to Vulnerable Patients](/assets/downloads/2022-08-10-Press-Release.pdf)’. 10 August 2022.
 * AstraZeneca. ‘[Update to Evusheld Recommended Dosage Regimen for Pre-Exposure Prophylaxis of COVID-19](https://www.astrazeneca.com/media-centre/statements/2022/update-to-evusheld-recommended-dosage-regimen-for-pre-exposure-prophylaxis-of-covid-19.html)’, 14 July 2022.
 * Sarcoidosis UK. ‘[SarcoidosisUK Evusheld Statement](https://www.sarcoidosisuk.org/information-hub/evusheld/)’. _SarcoidosisUK_, 10 July 2022.
 * Cardiomyopathy UK. ‘[A Statement on Evusheld](https://www.cardiomyopathy.org/news-blogs/latest-news/evusheld)’. _Cardiomyopathy UK_, 8 July 2021.
