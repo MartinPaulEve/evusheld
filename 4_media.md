@@ -7,10 +7,16 @@ nav-menu: true
 ---
 This page contains media coverage, research articles, preprints, medical opinion pieces, and policy documents. If we are missing items, please email them to [the maintainer](mailto:martin@eve.gd).
 
+## Documents
+These are documents issued or prepared by Evusheld for the UK, here released in the interests of transparency.
+
+* Evusheld for the UK. 2022. ‘[Response to NICE Scoping Consultation: Tixagevimab–cilgavimab for preventing COVID-19, ID6136](/assets/downloads/NICE-Scoping.pdf)’. 11 August 2022.
+* Evusheld for the UK. 2022. ‘[Department of Health Plans to Deny Lifesaving Treatment to Vulnerable Patients](/assets/downloads/2022-08-10-Press-Release.pdf)’. 10 August 2022.
+* Evusheld for the UK. 2022. ‘[UK “Outlier” in Not Protecting 500,000+ Vulnerable Patients with New Lifesaving Drug. AstraZeneca Denies Government Claims of Further Testing](/assets/downloads/2022-06-21-Press-Release.pdf)’. 21 June 2022.
+
 ## Media Coverage
 These are articles in mainstream media/press releases about Evusheld in the UK, in reverse chronological order. It also includes statements from major UK charities on the drug.
 
-* Evusheld for the UK. 2022. ‘[Department of Health Plans to Deny Lifesaving Treatment to Vulnerable Patients](/assets/downloads/2022-08-10-Press-Release.pdf)’. 10 August 2022.
 * AstraZeneca. ‘[Update to Evusheld Recommended Dosage Regimen for Pre-Exposure Prophylaxis of COVID-19](https://www.astrazeneca.com/media-centre/statements/2022/update-to-evusheld-recommended-dosage-regimen-for-pre-exposure-prophylaxis-of-covid-19.html)’, 14 July 2022.
 * Sarcoidosis UK. ‘[SarcoidosisUK Evusheld Statement](https://www.sarcoidosisuk.org/information-hub/evusheld/)’. _SarcoidosisUK_, 10 July 2022.
 * Cardiomyopathy UK. ‘[A Statement on Evusheld](https://www.cardiomyopathy.org/news-blogs/latest-news/evusheld)’. _Cardiomyopathy UK_, 8 July 2021.
@@ -20,7 +26,6 @@ These are articles in mainstream media/press releases about Evusheld in the UK, 
 * Ennals, Ethan. ‘[Will Covid Drug Evusheld Be Offered to Brits Who Don’t Respond to Jab?](https://www.dailymail.co.uk/health/article-10976341/Will-Covid-drug-Evusheld-offered-vulnerable-Britons-dont-respond-vaccine.html)’. _Mail Online_, 2 July 2022.
 * Mullard, Asher. ‘[COVID Antibody Drugs Have Saved Lives — so Why Aren’t They More Popular?](https://doi.org/10.1038/d41586-022-01735-7)’ _Nature_ 606, no. 7916 (29 June 2022): 854–56.
 * Sharp, Christopher. ‘[Blood Cancer UK Says Government “Needs to Do More” amid Battle for Evusheld](https://www.express.co.uk/life-style/health/1629554/blood-cancer-uk-treatment-evusheld-covid)’. _Express.co.uk_, 26 June 2022.
-* Evusheld for the UK. 2022. ‘[UK “Outlier” in Not Protecting 500,000+ Vulnerable Patients with New Lifesaving Drug. AstraZeneca Denies Government Claims of Further Testing](/assets/downloads/2022-06-21-Press-Release.pdf)’. 21 June 2022.
 * Shapiro, Lindsey. 2022. ‘[Evusheld Boosts Antibodies Against COVID-19 in Vaccinated MS Patients](https://multiplesclerosisnewstoday.com/news-posts/2022/06/10/evusheld-boosts-antibodies-against-covid-19-vaccinated-ms-patients/)’. _Multiple Sclerosis News Today_ (blog). 10 June 2022.
 * ‘[Evusheld Significantly Prevented COVID-19 Disease Progression or Death in Tackle Phase III Treatment Trial](https://www.zawya.com/en/press-release/companies-news/evusheld-significantly-prevented-covid-19-disease-progression-or-death-in-tackle-phase-iii-treatment-trial-appg120c)’. 2022. _Zawya_. 10 June 2022.
 * ‘[AstraZeneca’s Evusheld Prevents Disease Progression in Phase III Covid-19 Trial](https://www.clinicaltrialsarena.com/news/astrazeneca-evusheld-covid-trial-2/)’. 2022. _Clinical Trials Arena_ (blog). 9 June 2022.
