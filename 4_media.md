@@ -10,6 +10,7 @@ This page contains media coverage, research articles, preprints, medical opinion
 ## Documents
 These are documents issued or prepared by Evusheld for the UK, here released in the interests of transparency.
 
+* Evusheld for the UK. 2022. ‘[Response to DHSC Shelving Plans for Evusheld in Winter 2022](/assets/downloads/2022-08-12-DHSC-Response.pdf)’. 12 August 2022.
 * Evusheld for the UK. 2022. ‘[Response to NICE Scoping Consultation: Tixagevimab–cilgavimab for preventing COVID-19, ID6136](/assets/downloads/NICE-Scoping.pdf)’. 11 August 2022.
 * Evusheld for the UK. 2022. ‘[Department of Health Plans to Deny Lifesaving Treatment to Vulnerable Patients](/assets/downloads/2022-08-10-Press-Release.pdf)’. 10 August 2022.
 * Evusheld for the UK. 2022. ‘[UK “Outlier” in Not Protecting 500,000+ Vulnerable Patients with New Lifesaving Drug. AstraZeneca Denies Government Claims of Further Testing](/assets/downloads/2022-06-21-Press-Release.pdf)’. 21 June 2022.
