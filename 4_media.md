@@ -18,7 +18,8 @@ These are documents issued or prepared by Evusheld for the UK, here released in 
 ## Media Coverage
 These are articles in mainstream media/press releases about Evusheld in the UK, in reverse chronological order. It also includes statements from major UK charities on the drug.
 
-* BBC News. ‘[Covid: Evusheld Antibody Protection Ruled out for Most Vulnerable](https://www.bbc.com/news/health-62516896)’, 12 August 2022, sec. Health.
+* Walsh, Fergus. ‘[Covid: Evusheld Antibody Protection Ruled out for Most Vulnerable](https://www.bbc.com/news/health-62516896)’, _BBC News_, 12 August 2022, sec. Health.
+* Davis, Nicola. ‘[UK Decision Not to Buy Covid Drug Evusheld Disappoints Charities](https://www.theguardian.com/world/2022/aug/12/uk-decision-not-to-buy-covid-drug-evusheld-disappoints-charities)’. _The Guardian_, 12 August 2022, sec. World news.
 * Gallagher, Paul. ‘[Thousands of Vulnerable “in Limbo” as Government Rules out Buying Covid Protection Drug](https://inews.co.uk/news/health/evusheld-covid-uk-drug-prevent-high-risk-groups-vulnerable-people-1790926)’. _inews.co.uk_, 12 August 2022.
 * Taylor, Phil. ‘[Dismay as UK “drags Its Heels” on AZ’s COVID Antibody Evusheld](https://pharmaphorum.com/news/dismay-as-uk-drags-its-heels-on-azs-covid-antibody-evusheld/)’. _Pharmaphorum_, 12 August 2022.
 * AstraZeneca. ‘[Update to Evusheld Recommended Dosage Regimen for Pre-Exposure Prophylaxis of COVID-19](https://www.astrazeneca.com/media-centre/statements/2022/update-to-evusheld-recommended-dosage-regimen-for-pre-exposure-prophylaxis-of-covid-19.html)’, 14 July 2022.
