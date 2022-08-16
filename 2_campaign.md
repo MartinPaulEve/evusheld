@@ -22,7 +22,19 @@ It is vital, therefore, that the group remains a-political and maintains a profe
 ## Write to Your MP and Members of the House of Lords
 One of the most important actions that you can take is to [write to your MP](https://www.writetothem.com/write).
 
-To make this effective, we have created [a template letter](/assets/downloads/Template-Letter-for-MPs.docx) that you can use. Importantly, you should change this letter. Boilerplate letters tend to get standard responses, whereas a personally crafted letter will make much more of a difference.
+To make this effective, we have created a set of template letters that you can send to your MPs. Importantly, you should change this letter. Boilerplate letters tend to get standard responses, whereas a personally crafted letter will make much more of a difference:
+
+### Patient Letters
+These are for people who are, themselves, shielding. The letters are variations on a theme and you can choose which to use.
+
+* [Letter 1](/assets/downloads/August-MP-Letter-1.docx)
+* [Letter 2](/assets/downloads/August-MP-Letter-3.docx)
+* [Letter 3](/assets/downloads/August-MP-Letter-4.docx)
+
+### Friends and Family Letter
+This letter is for people who are friends or family members of immunocompromised people.
+
+* [Letter for Friends or Family](/assets/downloads/August-MP-Letter-2.docx)
 
 ## Make Media Contact
 We need to generate as much attention as possible for this issue. If you have contacts in the media, or work in the media yourself, please [get in touch with us](mailto:martin@eve.gd).
