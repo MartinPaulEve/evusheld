@@ -16,7 +16,7 @@ Our group exists for one purpose: to get this drug introduced in the UK with acc
 ## Who Do We Work With?
 To achieve our goal we need to enlist support from across the political spectrum. We need support from people in media, in health, and in any other avenue that will benefit us. Anybody with influence can help our campaign.
 
-It is vital, therefore, that the group remains a-political and maintains a professional outlook in our communications and image. While many members will be frustrated at two years of isolation and may feel let down, we must work across political divides to seek allies wherever they may be. Hence, we want to keep political discussion off the group page. Further, we expect civility, politeness, and respect from all members of the group.
+It is vital, therefore, that the group remains apolitical and maintains a professional outlook in our communications and image. While many members will be frustrated at two years of isolation and may feel let down, we must work across political divides to seek allies wherever they may be. Hence, we want to keep political discussion off the group page. Further, we expect civility, politeness, and respect from all members of the group.
 
 # What Can I Do?
 ## Write to Your MP and Members of the House of Lords
