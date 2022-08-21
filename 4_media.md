@@ -18,6 +18,8 @@ These are documents issued or prepared by Evusheld for the UK, here released in 
 ## Media Coverage
 These are articles in mainstream media/press releases about Evusheld in the UK, in reverse chronological order. It also includes statements from major UK charities on the drug.
 
+* Harris, Siobhan. ‘[Medical Experts Ask for a Rethink on Evusheld](https://www.medscape.co.uk/viewarticle/medical-experts-ask-rethink-evusheld-2022a10021il)’. _Medscape UK_. Accessed 21 August 2022.
+* Raphael, Therese, and Sam Fazeli. ‘[Britain Needs a Better Booster Strategy for Covid](https://www.washingtonpost.com/business/britain-needs-a-better-booster-strategy-for-covid/2022/08/19/99c04c2e-1f7c-11ed-9ce6-68253bd31864_story.html)’. _Washington Post_, 19 August 2022.
 * Mahase, Elisabeth. ‘[Covid-19: UK Will Not Buy Evusheld Owing to “Insufficient Data” on Protection, Government Says](https://doi.org/10.1136/bmj.o2021)’. _BMJ_ 378 (15 August 2022): o2021.
 * Walsh, Fergus. ‘[Covid: Evusheld Antibody Protection Ruled out for Most Vulnerable](https://www.bbc.com/news/health-62516896)’, _BBC News_, 12 August 2022, sec. Health.
 * Davis, Nicola. ‘[UK Decision Not to Buy Covid Drug Evusheld Disappoints Charities](https://www.theguardian.com/world/2022/aug/12/uk-decision-not-to-buy-covid-drug-evusheld-disappoints-charities)’. _The Guardian_, 12 August 2022, sec. World news.
@@ -113,10 +115,13 @@ This secondary bibliography presents a selection of references on topics not dir
 <iframe src="https://player.vimeo.com/video/719537557?h=78adcb4cb9" width="640" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/719537557">BBC News - 3pm - 21 February 2022</a> from <a href="https://vimeo.com/shannonleebanks">Shannon Banks</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Xstee16fIPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <iframe src="https://player.vimeo.com/video/733719996?h=0be83c25e6" width="640" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/733719996">Channel 5 News - 5pm - 12 July 2022</a> from <a href="https://vimeo.com/shannonleebanks">Shannon Banks</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 
 <iframe src="https://player.vimeo.com/video/733719643?h=2563d6c38b" width="640" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/733719643">ITV News - 6:30pm - 26 July</a> from <a href="https://vimeo.com/shannonleebanks">Shannon Banks</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
