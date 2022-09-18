@@ -36,6 +36,11 @@ This letter is for people who are friends or family members of immunocompromised
 
 * [Letter for Friends or Family](/assets/downloads/August-MP-Letter-2.docx)
 
+### Follow-up Rebuttal Letter
+This letter is a follow-up letter addressing the most common templated replies that we have seen from MPs. Obviously, please use whichever points apply to the response you have received. The first point, highlighting the criticisms from senior members of the Conservative Party, only apply if you have a Conservative MP.
+
+* [Rebuttal points](/assets/downloads/2022-09-18-Response.docx)
+
 ## Make Media Contact
 We need to generate as much attention as possible for this issue. If you have contacts in the media, or work in the media yourself, please [get in touch with us](mailto:martin@eve.gd).
 
