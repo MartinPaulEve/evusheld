@@ -10,3 +10,9 @@ show_tile: false
 
 ## Summary
 Evusheld is a preventative treatment for Covid-19. There are around 500k people who are still at increased risk from this deadly disease. The Government must protect them – Evusheld could help.
+
+<details open>
+<summary>Summary</summary>
+<br>
+Evusheld is a preventative treatment for Covid-19. There are around 500k people who are still at increased risk from this deadly disease. The Government must protect them – Evusheld could help.
+</details>
