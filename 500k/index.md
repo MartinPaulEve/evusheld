@@ -62,3 +62,10 @@ show_tile: false
 
 </details>
 
+<details>
+<summary><b><u><font size="+2">Links</font></u></b></summary>
+<br>
+
+<p>Discover more about Evusheld <a href="https://getevusheld.uk/4_media.html">here</a>.</p>
+
+</details>
