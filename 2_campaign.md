@@ -19,7 +19,9 @@ To achieve our goal we need to enlist support from across the political spectrum
 It is vital, therefore, that the group remains apolitical and maintains a professional outlook in our communications and image. While many members will be frustrated at two years of isolation and may feel let down, we must work across political divides to seek allies wherever they may be. Hence, we want to keep political discussion off the group page. Further, we expect civility, politeness, and respect from all members of the group.
 
 ## Who Funds This and Who Are You?
-We receive no funding from anyone. We are not affiliated with AstraZeneca or any other pharmaceutical company. The campaign is coordinated by three volunteers: Nikola Brigden, Martin Eve, and Mark Oakley. We receive no remuneration for our work and work strictly on a voluntary basis as patients and carers.
+We receive no funding from anyone. We are not affiliated with AstraZeneca or any other pharmaceutical company. The campaign is coordinated by three volunteers who receive no remuneration for our work, operating strictly on a voluntary basis as patients and carers.
+
+For more information about who we are, what we do, and with whom we work, please contact <a href="mailto:martin@eve.gd">Martin Eve</a>.
 
 # What Can I Do?
 ## Write to Your MP and Members of the House of Lords
