@@ -1,5 +1,5 @@
 ---
-title: Media Coverage and Research Articles
+title: Official Documents, Media Coverage and Research Articles
 layout: page
 description: 'Read about Evusheld in the media.'
 image: assets/images/media.png
