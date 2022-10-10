@@ -8,9 +8,10 @@ nav-menu: true
 This page contains media coverage, research articles, preprints, medical opinion pieces, and policy documents. If we are missing items, please email them to [the maintainer](mailto:martin@eve.gd).
 
 ## Documents
-These are documents issued or prepared by Evusheld for the UK, here released in the interests of transparency.
+These are documents issued or prepared by Evusheld for the UK or by charity partners with whom we work, here released in the interests of transparency.
 
 * Evusheld for the UK. 2022. ‘[Submission to NICE consultation COVID-19 (prevention) - tixagevimab–cilgavimab ID6136](/assets/downloads/2022-10-09-NICE-Submission.pdf)’. 09 October 2022.
+* Blood Cancer UK. 2022. ‘[Letter to the Secretary of State for Health](/assets/downloads/2022-10-04-Letter-to-Coffey.pdf)’. 04 October 2022.
 * Evusheld for the UK. 2022. ‘[Response Letter to the New Secretary of State for Health](/assets/downloads/2022-09-16-Response-to-SoS.pdf)’. 20 September 2022.
 * Evusheld for the UK. 2022. ‘[Joint Charity Letter to Secretary of State for Health](/assets/downloads/2022-08-23-Evusheld-Charity-Letter-to-Barclay.pdf)’. 23 August 2022.
 * Evusheld for the UK. 2022. ‘[Response to DHSC Shelving Plans for Evusheld in Winter 2022](/assets/downloads/2022-08-12-DHSC-Response.pdf)’. 12 August 2022.
