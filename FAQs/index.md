@@ -1,5 +1,5 @@
 ---
-layout: orange_post
+layout: plain_orange_post
 title: 'Frequently Asked Questions'
 landing-title: 'Clinically vulnerable people are still shielding'
 description: ''
