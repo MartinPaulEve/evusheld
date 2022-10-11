@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: brown_post
 title: 'How Can You Help'
 landing-title: 'How Can You Help'
 description: null
