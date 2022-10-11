@@ -1,7 +1,7 @@
 ---
 layout: orange_post
 title: 'Help The Forgotten 500k'
-<!-- landing-title: 'Clinically vulnerable people are still shielding' -->
+landing-title: 'Clinically vulnerable people are still shielding'
 description: 'Evusheld is a preventative treatment for Covid-19. There are around 500k people who are still at increased risk from this deadly disease. The Government must protect them – Evusheld could help.'
 image: assets/images/pic11.jpg
 author: null
