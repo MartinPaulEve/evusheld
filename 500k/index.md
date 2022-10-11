@@ -1,5 +1,5 @@
 ---
-layout: landing
+layout: plain_orange_post
 image: assets/images/pic11.jpg
 author: null
 show_tile: false
