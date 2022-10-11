@@ -2,14 +2,11 @@
 layout: post
 title: 'Help The Forgotten 500k'
 landing-title: 'Clinically vulnerable people are still shielding'
-description: null
+description: 'Evusheld is a preventative treatment for Covid-19. There are around 500k people who are still at increased risk from this deadly disease. The Government must protect them – Evusheld could help.'
 image: null
 author: null
 show_tile: false
 ---
-
-<h2>Summary</h2>
-<p>Evusheld is a preventative treatment for Covid-19. There are around 500k people who are still at increased risk from this deadly disease. The Government must protect them – Evusheld could help.</p>
 
 <h2>Who are the Forgotten 500K?</h2>
 <p>There are at least 500,000 people in the UK who are immunocompromised. This means they are often at higher risk from Covid-19. It also means that they are less likely to be well-protected by vaccines, because their immune systems are less able to protect against, and fight off, infection. </p>
@@ -18,7 +15,7 @@ show_tile: false
 
 
 <a href=""></a>
-<details open>
+<details>
 <summary><b><u><font size="+2">What is Evusheld?</font></u></b></summary>
 <br>
 
