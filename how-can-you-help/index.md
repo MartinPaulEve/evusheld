@@ -1,5 +1,5 @@
 ---
-layout: orange_post
+layout: plain_orange_post
 title: 'How Can You Help'
 landing-title: 'How Can You Help'
 description: null
