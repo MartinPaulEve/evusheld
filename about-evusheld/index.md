@@ -1,6 +1,6 @@
 ---
 layout: plain_orange_post
-image: assets/images/pic11.jpg
+image: null
 author: null
 show_tile: false
 description: ""
