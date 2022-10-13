@@ -16,8 +16,7 @@ show_tile: false
     <td class="tg-wp8o"><h1 style="margin : 0; padding-top:0;"><center><a href="https://getevusheld.uk/how-can-you-help/">HOW CAN</a><br><u><a href="https://getevusheld.uk/how-can-you-help/">YOU HELP?</a></u></center></h1</td>
     <td class="tg-wp8o"><h1 style="margin : 0; padding-top:0;"><center><a href="https://getevusheld.uk/about-evusheld/">ABOUT</a><br><u><a href="https://getevusheld.uk/about-evusheld/">EVUSHELD</a></u></center></h1></td>
     <td class="tg-wp8o"><h1 style="margin : 0; padding-top:0;"><center><a href="https://getevusheld.uk/hear-our-stories/">HEAR OUR</a><br><u><a href="https://getevusheld.uk/hear-our-stories/">STORIES</a></u></center></h1></td>
-      </tr>
-      </thead>
+
 </table>
 
 <h2>Summary</h2>
