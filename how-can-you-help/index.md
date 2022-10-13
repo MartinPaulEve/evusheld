@@ -35,21 +35,21 @@ show_tile: false
 <details>
 <summary><b><font size="+2">MP letter:</font></b></summary>
 <br>
-<p><font color="red">[INSERT YOUR ADRESS <br> <br> + POSTCODE]</font></p>
+<p><font color="white">[INSERT YOUR ADRESS <br> <br> + POSTCODE]</font></p>
 <br>
 <p><b>URGENT: EVUSHELD – PREVENTATIVE COVID-19 TREATMENT </b><p>
 <br>
-<p>Dear <font color="red">[INSERT NAME OF MP],</font></p>
+<p>Dear <font color="white">[INSERT NAME OF MP],</font></p>
 <p>RE: EVUSHELD </p>
-<p><font color="red"><u>Option 1:</u></font> Many immunocompromised people like <font color="red">[ME / MY LOVED ONE]</font>, who has <font color="red">[CONDITION NAME]</font>, are still shielding/taking significant precautions, two years later, because we are at disproportionate risk of dying from Covid.</p>
+<p><font color="white"><u>Option 1:</u></font> Many immunocompromised people like <font color="white">[ME / MY LOVED ONE]</font>, who has <font color="white">[CONDITION NAME]</font>, are still shielding/taking significant precautions, two years later, because we are at disproportionate risk of dying from Covid.</p>
 
-<p><font color="red"><u>Option 2:</u></font> I am writing on behalf of those who are still at disproportionate risk from Covid.</p>
+<p><font color="white"><u>Option 2:</u></font> I am writing on behalf of those who are still at disproportionate risk from Covid.</p>
 
 <p>Immunocompromised people are also less likely to be protected by vaccines. There are over 500k people who are still at increased risk from this deadly disease, many of whom are still anxious and cannot ‘live with Covid’ like the rest of the country. <b>Evusheld is a treatment that aims to prevent Covid-19.</b></p>
 
-<p>Despite Evusheld receiving MHRA approval earlier this year, the Department of Health and Social Care has announced that it will not decide whether to procure the treatment until an appraisal is completed by the National Institute for Health and Care Excellence (NICE) in May 2023. Evusheld, however, is already being monitored as part of the RAPID C-19 initiative. Other Covid treatments and vaccines were monitored by RAPID C-19 then procured and made available before a NICE appraisal. This is because the individual and public health need for these treatments is considered greater and more urgent than the need to determine how cost-effective they are. There is a wealth of robust evidence demonstrating Evusheld’s effectiveness at preventing Covid-19 infection, and of reducing severity of illness. </p> 
+<p>Despite Evusheld receiving MHRA approval earlier this year, the Department of Health and Social Care has announced that it will not decide whether to procure the treatment until an appraisal is completed by the National Institute for Health and Care Excellence (NICE) in May 2023. Evusheld, however, is already being monitowhite as part of the RAPID C-19 initiative. Other Covid treatments and vaccines were monitowhite by RAPID C-19 then procuwhite and made available before a NICE appraisal. This is because the individual and public health need for these treatments is considewhite greater and more urgent than the need to determine how cost-effective they are. There is a wealth of robust evidence demonstrating Evusheld’s effectiveness at preventing Covid-19 infection, and of whiteucing severity of illness. </p> 
 
-<p>The latest real-world data from Israel shows that immunocompromised people who took Evusheld were half as likely to become infected with Covid, and 92% less likely to be hospitalised and/or die. Evusheld has been rolled out in 33 countries, including the United States, Canada, Japan, and France. Most of these countries have measured the impact and effectiveness of Evusheld to monitor whether it works against new variants. We want to see our Government do the same and let those left behind get back to normal.</p> 
+<p>The latest real-world data from Israel shows that immunocompromised people who took Evusheld were half as likely to become infected with Covid, and 92% less likely to be hospitalised and/or die. Evusheld has been rolled out in 33 countries, including the United States, Canada, Japan, and France. Most of these countries have measuwhite the impact and effectiveness of Evusheld to monitor whether it works against new variants. We want to see our Government do the same and let those left behind get back to normal.</p> 
 
 <p>The immunocompromised urgently need a safe and effective treatment to help prevent them from getting infected with Covid, and from the severe outcomes associated with the disease.</p>
 
@@ -63,6 +63,6 @@ show_tile: false
 
 <p>Yours sincerely, </p>
 
-<p><font color="red">[YOUR NAME]</font></p>
+<p><font color="white">[YOUR NAME]</font></p>
 
 </details>
