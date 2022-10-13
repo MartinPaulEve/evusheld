@@ -53,10 +53,10 @@ show_tile: false
 
 <p>The immunocompromised urgently need a safe and effective treatment to help prevent them from getting infected with Covid, and from the severe outcomes associated with the disease.</p>
 
-<p><b>Please can you:</p>
+<p><b>Please can you:</b></p>
 <ul class="difference">
                         <li><b>Write to the Secretary of State for Health and Social Care on my behalf and urge her to roll out Evusheld this winter.</b></li>
-                        <li><b>Join our vigil on the XXX at XXX in Parliament Square, where family and friends of the Forgotten 500,000 will be gathering to represent them.</b>
+                        <li><b>Join our vigil on the XXX at XXX in Parliament Square, where family and friends of the Forgotten 500,000 will be gathering to represent them.</b></li>
                         </ul>
 
 <p>I look forward to hearing from you as soon as possible.</p>
