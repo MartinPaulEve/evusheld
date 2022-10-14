@@ -46,7 +46,7 @@ show_tile: false
 
 </details>
 
-<br>
+
 
 <details>
 <summary><b><font size="+2">Contact the Health and Social Care Secretary and Prime Minister on <a href="https://twitter.com/i/flow/login">Twitter</a></font></b></summary>
@@ -68,7 +68,7 @@ show_tile: false
 
 </details>
 
-<br>
+
 
 <details>
 <summary><b><font size="+2">Join our vigil</font></b></summary>
@@ -79,7 +79,7 @@ show_tile: false
 
 </details>
 
-<br>
+
 
 <details>
 <summary><b><font size="+2">Hear from the Forgotten 500k</font></b></summary>
