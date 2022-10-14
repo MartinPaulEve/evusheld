@@ -11,7 +11,7 @@ show_tile: false
 
 <br>
 
-<table class="tg" style="border:0px solid #000000;margin-left:auto;margin-right:auto;border-spacing: 60px;" >
+<table class="tg" style="border:0px solid #000000;margin-left:auto;margin-right:auto;border-spacing: 3em;" >
 <thead>
 <tr>
     <th class="tg-wp8o"><h1 style="margin : 0; padding-top:0;"><center><a href="https://getevusheld.uk/how-can-you-help/">HOW CAN</a><br style=
