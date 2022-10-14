@@ -67,7 +67,7 @@ This is because the individual and public health need for these treatments is co
  
 <u>Are any of the 500,000 immunocompromised protected by Covid vaccines? </u>
 
-<p>Yes – people who are considered immunocompromised have a wide range of different health conditions, or are taking certain medical treatments, that weaken their immune system in different ways. Depending on various factors, some people are more protected by the Covid vaccines than others. There has been a great deal of <a href="https://bloodcancer.org.uk/support-for-you/coronavirus-covid-19/covid-vaccine-blood-cancer/covid-vaccine-efficacy-blood-cancer//">research </a>conducted among people with blood cancer, for example (of whom there are almost 280,000 in the UK) that shows that someone’s particular condition and cancer treatment impacts how their immune system responds to the vaccines.  
+<p>Yes – people who are considered immunocompromised have a wide range of different health conditions, or are taking certain medical treatments, that weaken their immune system in different ways. Depending on various factors, some people are more protected by the Covid vaccines than others. There has been a great deal of <a href="https://bloodcancer.org.uk/support-for-you/coronavirus-covid-19/covid-vaccine-blood-cancer/covid-vaccine-efficacy-blood-cancer//">research </a>conducted among people with blood cancer, for example (of whom there are almost 280,000 in the UK) that shows that someone’s particular condition and cancer treatment impacts how their immune system responds to the vaccines. </p> 
 
 <p>The immune system has two key components related to B cells and T cells. Research suggests that B cells produce antibodies that help protect against and fight off infection, and T cells help protect against becoming seriously ill. While antibodies wane relatively quickly, T cells provide more durable protection – which lasts longer – and also protects against a broader range of Covid variants. Even though spikes in Covid cases are usually caused by new variants, T cells can provide some protection against those new variants despite not encountering them previously. It’s much easier to measure antibodies than it is to measure T cell activity, so while some immunocompromised people can get antibody tests, the results of these tests still won’t indicate to them exactly how protected they are against Covid. T cell tests do exist, but they tend to be expensive and are mostly available privately. There’s also uncertainty as to their accuracy. </p>
 
@@ -85,7 +85,7 @@ This is because the individual and public health need for these treatments is co
 
 <p>05 September 2022 letter from Steve Barclay MP to charities: <a href="https://media.bloodcancer.org.uk/documents/1417253_-_Gemma_Peters_and_others.pdf">https://media.bloodcancer.org.uk/documents/1417253_-_Gemma_Peters_and_others.pdf</a> </p>
 
-<p>21 September 2022 letter from Blood Cancer UK to Therese Coffey MP (the current Secretary of State for Health): <a href="https://getevusheld.uk/assets/downloads/2022-10-04-Letter-to-Coffey.pdfth">https://getevusheld.uk/assets/downloads/2022-10-04-Letter-to-Coffey.pdfth</a></p>
+<p>21 September 2022 letter from Blood Cancer UK to Therese Coffey MP (the current Secretary of State for Health): <a href="https://getevusheld.uk/assets/downloads/2022-10-04-Letter-to-Coffey.pdf">https://getevusheld.uk/assets/downloads/2022-10-04-Letter-to-Coffey.pdf</a></p>
  
 </details>
 
