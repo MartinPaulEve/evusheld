@@ -74,7 +74,7 @@ show_tile: false
 <summary><b><font size="+2">Join our vigil</font></b></summary>
 
 <p>The vigil will be held on the 26th October at 12.30pm in Parliament Square, where family and friends of the Forgotten 500,000 will be gathering to represent them. </p>
-<p>Follow our <a href=https://www.facebook.com/forgotten500k/?show_switched_toast=0&show_invite_to_follow=0&show_switched_tooltip=0&show_podcast_settings=0&show_community_transition=0&show_community_review_changes=0&show_community_rollback=0&show_follower_visibility_disclosure=0/> Facebook page</a> for updates on the Vigil.
+<p>Follow our <a href="https://www.facebook.com/forgotten500k/?show_switched_toast=0&show_invite_to_follow=0&show_switched_tooltip=0&show_podcast_settings=0&show_community_transition=0&show_community_review_changes=0&show_community_rollback=0&show_follower_visibility_disclosure=0/"> Facebook page</a> for updates on the Vigil.
 </p>
 
 </details>
