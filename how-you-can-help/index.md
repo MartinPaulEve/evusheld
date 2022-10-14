@@ -11,14 +11,8 @@ show_tile: false
 
 <h3>What you can do and how it will help:</h3>
 
- <ul class="difference">
-                        <li>Write a letter to your MP</li>
-                        <li>Contact the Health and Social Care Secretary and Prime Minister on <a href="https://twitter.com/i/flow/login">Twitter</a>
-                        <li>Join our vigil on the 26th October at 12.30pm in Parliament Square, where family and friends of the Forgotten 500,000 will be gathering to represent them.</li>
-                        <li>Hear from the Forgotten 500k – stories and personal impact <a href="https://getevusheld.uk/hear-our-stories/">here</a></li>
-<br>
 <details>
-<summary><b><font size="+2">MP letter template</font></b></summary>
+<summary><b><font size="+2">Write a letter to your MP</font></b></summary>
 
 <p><b><font color="navy">[INSERT YOUR ADRESS <br> <br> + POSTCODE]</font></b></p>
 
@@ -52,21 +46,42 @@ show_tile: false
 
 </details>
 
+<br>
+
 <details>
-<summary><b><font size="+2">Tweet templates</font></b></summary>
+<summary><b><font size="+2">Contact the Health and Social Care Secretary and Prime Minister on <a href="https://twitter.com/i/flow/login">Twitter</a></font></b></summary>
 
 <ul class="difference">
                     <li><u>Tweets for the immunocompromised:</u></li>
                     <ul class="level_3">
                         <li>Help the #Forgotten500k feel safe again @theresecoffey. We are still at risk from Covid – we need you to roll out Evusheld now.</li>
                         <li>Help the #Forgotten500k feel safe again @trussliz. We are still at risk from Covid – we need you to roll out Evusheld now.</li>
-                    </ul>
+                    </ul><br>
                     <li><u>Tweets for family members of the immunocompromised:</u></li>
                     <ul class="level_3">
                         <li>Help the #Forgotten500k feel safe again @trussliz. My loved ones are still at risk from Covid – we need you to roll out Evusheld now.</li>
-                    </ul>
+                    </ul><br>
                         <li><u>Tweets for other supporters:</u></li>
                         <ul class="level_3">
                         <li>Help protect the #Forgotten500k and roll out Evusheld urgently @theresecoffey. We dealt with Covid together – we can’t leave them behind. </li>
                     </ul></ul>
+
+</details>
+
+<br>
+
+<details>
+<summary><b><font size="+2">Join our vigil</font></b></summary>
+
+<p>The vigil will be held on the 26th October at 12.30pm in Parliament Square, where family and friends of the Forgotten 500,000 will be gathering to represent them.</p>
+
+</details>
+
+<br>
+
+<details>
+<summary><b><font size="+2">Hear from the Forgotten 500k</font></b></summary>
+
+<p>You can find their stories and personal impact <a href="https://getevusheld.uk/hear-our-stories/">here</a></p>
+
 </details>
