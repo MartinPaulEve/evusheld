@@ -48,9 +48,9 @@ This is because the individual and public health need for these treatments is co
 </p>
 <br>
 
-<b><u>Links </b></u>
+<b><u>Links</u></b>
 
-<p>Discover more about Evusheld https://getevusheld.uk/4_media.html 
+<p>Discover more about Evusheld <a href="https://getevusheld.uk/4_media.html">here.</a> 
 </p>
 
 
@@ -69,25 +69,24 @@ This is because the individual and public health need for these treatments is co
 
 <p>Yes – people who are considered immunocompromised have a wide range of different health conditions, or are taking certain medical treatments, that weaken their immune system in different ways. Depending on various factors, some people are more protected by the Covid vaccines than others. There has been a great deal of <a href="https://bloodcancer.org.uk/support-for-you/coronavirus-covid-19/covid-vaccine-blood-cancer/covid-vaccine-efficacy-blood-cancer//">research </a>conducted among people with blood cancer, for example (of whom there are almost 280,000 in the UK) that shows that someone’s particular condition and cancer treatment impacts how their immune system responds to the vaccines.  
 
-The immune system has two key components related to B cells and T cells. Research suggests that B cells produce antibodies that help protect against and fight off infection, and T cells help protect against becoming seriously ill. While antibodies wane relatively quickly, T cells provide more durable protection – which lasts longer – and also protects against a broader range of Covid variants. Even though spikes in Covid cases are usually caused by new variants, T cells can provide some protection against those new variants despite not encountering them previously. It’s much easier to measure antibodies than it is to measure T cell activity, so while some immunocompromised people can get antibody tests, the results of these tests still won’t indicate to them exactly how protected they are against Covid. T cell tests do exist, but they tend to be expensive and are mostly available privately. There’s also uncertainty as to their accuracy. 
+<p>The immune system has two key components related to B cells and T cells. Research suggests that B cells produce antibodies that help protect against and fight off infection, and T cells help protect against becoming seriously ill. While antibodies wane relatively quickly, T cells provide more durable protection – which lasts longer – and also protects against a broader range of Covid variants. Even though spikes in Covid cases are usually caused by new variants, T cells can provide some protection against those new variants despite not encountering them previously. It’s much easier to measure antibodies than it is to measure T cell activity, so while some immunocompromised people can get antibody tests, the results of these tests still won’t indicate to them exactly how protected they are against Covid. T cell tests do exist, but they tend to be expensive and are mostly available privately. There’s also uncertainty as to their accuracy. </p>
 
-Immunocompromised people, for example people with primary and secondary immunodeficiency, may have a condition that means their T cells aren’t able to protect them. They may also be on medication (such as cancer treatment) that depletes their B cells. Some might also have genetic conditions, such as primary immunodeficiency disorders, where their B cells aren’t able to produce antibodies to protect them properly. Others may have had a transplant (such as a solid organ or stem cell transplant) that renders them immunocompromised. Some people have very weak immune systems, while others’ are somewhat weakened. Many of them are still at risk from Covid despite being vaccinated. Among the unvaccinated, people who are immunocompromised only make up 2.4% of ICU admissions. Among people who’ve had three or more vaccine doses, this is <a href="https://www.icnarc.org/our-audit/audits/cmp/reports/">27.7%</a>, reflecting that their risk is still high, while people with strong immune systems have a lower risk from Covid after being vaccinated.
+<p>Immunocompromised people, for example people with primary and secondary immunodeficiency, may have a condition that means their T cells aren’t able to protect them. They may also be on medication (such as cancer treatment) that depletes their B cells. Some might also have genetic conditions, such as primary immunodeficiency disorders, where their B cells aren’t able to produce antibodies to protect them properly. Others may have had a transplant (such as a solid organ or stem cell transplant) that renders them immunocompromised. Some people have very weak immune systems, while others’ are somewhat weakened. Many of them are still at risk from Covid despite being vaccinated. Among the unvaccinated, people who are immunocompromised only make up 2.4% of ICU admissions. Among people who’ve had three or more vaccine doses, this is <a href="https://www.icnarc.org/our-audit/audits/cmp/reports/">27.7%</a>, reflecting that their risk is still high, while people with strong immune systems have a lower risk from Covid after being vaccinated.</p>
 
-People with weakened immune systems need more vaccine doses than others to increase their chances of producing antibodies or a T cell response. Some people are able to produce antibodies after 4 or 5 vaccine doses – but others haven’t produced any at all. This is why it’s important for people to keep getting multiple Covid vaccine doses, but also why there are some people who remain at very high risk from Covid, and need a treatment like Evusheld to protect them from infection, severe illness, and death. 
+<p>People with weakened immune systems need more vaccine doses than others to increase their chances of producing antibodies or a T cell response. Some people are able to produce antibodies after 4 or 5 vaccine doses – but others haven’t produced any at all. This is why it’s important for people to keep getting multiple Covid vaccine doses, but also why there are some people who remain at very high risk from Covid, and need a treatment like Evusheld to protect them from infection, severe illness, and death. 
 </p>
 <br>
  
 <u>What is the Government’s argument for not making Evusheld available?</u>
 
-<p>A group of charities have been corresponding with the Secretary of State for Health and Social Care on Evusheld since August. Their letters are a useful way to understand both sides of the argument, and you can read them below. In summary, the Government is relying on lab-based data because they’ve dismissed the existing real-world evidence due to concerns about the methodologies used in some of the studies. On the other hand, we disagree with their stated reasons, and believe their dismissal of this evidence is out of step with standard practice among regulators like the MHRA. 
+<p>A group of charities have been corresponding with the Secretary of State for Health and Social Care on Evusheld since August. Their letters are a useful way to understand both sides of the argument, and you can read them below. In summary, the Government is relying on lab-based data because they’ve dismissed the existing real-world evidence due to concerns about the methodologies used in some of the studies. On the other hand, we disagree with their stated reasons, and believe their dismissal of this evidence is out of step with standard practice among regulators like the MHRA.</p> 
  
-23 August 2022 letter from charities to Steve Barclay MP (the previous Secretary of State for Health): <a href="https://media.bloodcancer.org.uk/documents/Evusheld_Letter_to_Barclay_23.08.22.pdf">https://media.bloodcancer.org.uk/documents/Evusheld_Letter_to_Barclay_23.08.22.pdf</a> 
+<p>23 August 2022 letter from charities to Steve Barclay MP (the previous Secretary of State for Health): <a href="https://media.bloodcancer.org.uk/documents/Evusheld_Letter_to_Barclay_23.08.22.pdf">https://media.bloodcancer.org.uk/documents/Evusheld_Letter_to_Barclay_23.08.22.pdf</a> </p>
 
-05 September 2022 letter from Steve Barclay MP to charities: <a href="https://media.bloodcancer.org.uk/documents/1417253_-_Gemma_Peters_and_others.pdf">https://media.bloodcancer.org.uk/documents/1417253_-_Gemma_Peters_and_others.pdf</a>  
+<p>05 September 2022 letter from Steve Barclay MP to charities: <a href="https://media.bloodcancer.org.uk/documents/1417253_-_Gemma_Peters_and_others.pdf">https://media.bloodcancer.org.uk/documents/1417253_-_Gemma_Peters_and_others.pdf</a> </p>
 
-21 September 2022 letter from Blood Cancer UK to Therese Coffey MP (the current Secretary of State for Health): <a href="https://getevusheld.uk/assets/downloads/2022-10-04-Letter-to-Coffey.pdfth">https://getevusheld.uk/assets/downloads/2022-10-04-Letter-to-Coffey.pdfth</a>
-
-</p>
+<p>21 September 2022 letter from Blood Cancer UK to Therese Coffey MP (the current Secretary of State for Health): <a href="https://getevusheld.uk/assets/downloads/2022-10-04-Letter-to-Coffey.pdfth">https://getevusheld.uk/assets/downloads/2022-10-04-Letter-to-Coffey.pdfth</a></p>
+ 
 </details>
 
 
