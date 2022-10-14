@@ -21,15 +21,15 @@ show_tile: false
 <details>
 <summary><b><font size="+2">MP letter template</font></b></summary>
 
-<p><font color="navy"><b>[INSERT YOUR ADRESS <br> <br> + POSTCODE]</b></font></p>
+<p><b><font color="navy">[INSERT YOUR ADRESS <br> <br> + POSTCODE]</font></b></p>
 
 <p><b>URGENT: EVUSHELD – PREVENTATIVE COVID-19 TREATMENT </b></p>
  
-<p>Dear <font color="navy"><b>[INSERT NAME OF MP]</b>,</font></p>
+<p>Dear <b><font color="navy">[INSERT NAME OF MP]</b>,</font></p>
 <p>RE: EVUSHELD </p>
-<p><font color="navy"><u>Option 1:</u></font> Many immunocompromised people like <font color="navy"><b>[ME / MY LOVED ONE]</b></font>, who has <font color="navy"><b>[CONDITION NAME]</b></font>, are still shielding/taking significant precautions, two years later, because we are at disproportionate risk of dying from Covid.</p>
+<p><u><font color="navy">Option 1:</u></font> Many immunocompromised people like <b><font color="navy">[ME / MY LOVED ONE]</font></b>, who has <b><font color="navy">[CONDITION NAME]</font></b>, are still shielding/taking significant precautions, two years later, because we are at disproportionate risk of dying from Covid.</p>
 
-<p><font color="navy"><u>Option 2:</u></font> I am writing on behalf of those who are still at disproportionate risk from Covid.</p>
+<p><u><font color="navy">Option 2:</u></font> I am writing on behalf of those who are still at disproportionate risk from Covid.</p>
 
 <p>Immunocompromised people are also less likely to be protected by vaccines. There are over 500k people who are still at increased risk from this deadly disease, many of whom are still anxious and cannot ‘live with Covid’ like the rest of the country. <b>Evusheld is a treatment that aims to prevent Covid-19.</b></p>
 
@@ -49,7 +49,7 @@ show_tile: false
 
 <p>Yours sincerely, </p>
 
-<p><font color="navy"><b>[YOUR NAME]</b></font></p>
+<p><b><font color="navy">[YOUR NAME]</font></b></p>
 
 </details>
 
