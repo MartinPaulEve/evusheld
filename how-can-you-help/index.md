@@ -37,7 +37,7 @@ show_tile: false
 
 <p><font color="white">[INSERT YOUR ADRESS <br> <br> + POSTCODE]</font></p>
 
-<p><b>URGENT: EVUSHELD – PREVENTATIVE COVID-19 TREATMENT </b><p>
+<p><b>URGENT: EVUSHELD – PREVENTATIVE COVID-19 TREATMENT </b></p>
  
 <p>Dear <font color="white">[INSERT NAME OF MP],</font></p>
 <p>RE: EVUSHELD </p>
