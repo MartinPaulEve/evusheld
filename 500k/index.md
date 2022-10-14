@@ -11,7 +11,7 @@ show_tile: false
 
 <br>
 
-<a href="https://getevusheld.uk/how-can-you-help/"><img src="https://getevusheld.uk/assets/images/landing_page/How_Can_You_Help.png" alt="" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" /></a><a href="https://getevusheld.uk/about-evusheld/"><img src="https://getevusheld.uk/assets/images/landing_page/About_Evusheld.png" alt="" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"/></a><a href="https://getevusheld.uk/hear-our-stories/"><img src="https://getevusheld.uk/assets/images/landing_page/Hear_Their_Stories.png" alt="" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"/></a>
+<a href="https://getevusheld.uk/how-you-can-help/"><img src="https://getevusheld.uk/assets/images/landing_page/How_Can_You_Help.png" alt="" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" /></a><a href="https://getevusheld.uk/about-evusheld/"><img src="https://getevusheld.uk/assets/images/landing_page/About_Evusheld.png" alt="" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"/></a><a href="https://getevusheld.uk/hear-our-stories/"><img src="https://getevusheld.uk/assets/images/landing_page/Hear_Their_Stories.png" alt="" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"/></a>
 
 <p style="clear: both;">
 
