@@ -37,7 +37,8 @@ landing-title: "About Evusheld"
  
  <br>
 <b><u>What’s going on with Evusheld now? </u></b> 
- <br>
+<br>
+ 
 <p>In July, the National Institute for Health and Care Excellence (NICE) <a href="https://www.nice.org.uk/guidance/indevelopment/gid-ta11102/"> launched an appraisal </a>of Evusheld. This is an evaluation of its clinical and cost-effectiveness. Covid vaccines and other Covid treatments are normally rolled out before they’re fully appraised by NICE, via a pathway called <a href="https://www.nice.org.uk/covid-19/rapid-c19/">RAPID C-19</a>. 
 This is because the individual and public health need for these treatments is considered greater and more urgent than the need to determine how cost-effective they are. If the vaccines had undergone NICE appraisals before they were rolled out, for instance, they would have been delayed, typically for around one year. </p>
 
@@ -67,6 +68,7 @@ This is because the individual and public health need for these treatments is co
  
  <b><u>Are any of the 500,000 immunocompromised protected by Covid vaccines? </u></b>
 <br>
+ 
 <p>Yes – people who are considered immunocompromised have a wide range of different health conditions, or are taking certain medical treatments, that weaken their immune system in different ways. Depending on various factors, some people are more protected by the Covid vaccines than others. There has been a great deal of <a href="https://bloodcancer.org.uk/support-for-you/coronavirus-covid-19/covid-vaccine-blood-cancer/covid-vaccine-efficacy-blood-cancer//">research </a>conducted among people with blood cancer, for example (of whom there are almost 280,000 in the UK) that shows that someone’s particular condition and cancer treatment impacts how their immune system responds to the vaccines. </p> 
 
 <p>The immune system has two key components related to B cells and T cells. Research suggests that B cells produce antibodies that help protect against and fight off infection, and T cells help protect against becoming seriously ill. While antibodies wane relatively quickly, T cells provide more durable protection – which lasts longer – and also protects against a broader range of Covid variants. Even though spikes in Covid cases are usually caused by new variants, T cells can provide some protection against those new variants despite not encountering them previously. It’s much easier to measure antibodies than it is to measure T cell activity, so while some immunocompromised people can get antibody tests, the results of these tests still won’t indicate to them exactly how protected they are against Covid. T cell tests do exist, but they tend to be expensive and are mostly available privately. There’s also uncertainty as to their accuracy. </p>
@@ -79,6 +81,7 @@ This is because the individual and public health need for these treatments is co
  
  <b><u>What is the Government’s argument for not making Evusheld available?</u></b>
 <br>
+ 
 <p>A group of charities have been corresponding with the Secretary of State for Health and Social Care on Evusheld since August. Their letters are a useful way to understand both sides of the argument, and you can read them below. In summary, the Government is relying on lab-based data because they’ve dismissed the existing real-world evidence due to concerns about the methodologies used in some of the studies. On the other hand, we disagree with their stated reasons, and believe their dismissal of this evidence is out of step with standard practice among regulators like the MHRA.</p> 
  
 <p>23 August 2022 letter from charities to Steve Barclay MP (the previous Secretary of State for Health): <a href="https://media.bloodcancer.org.uk/documents/Evusheld_Letter_to_Barclay_23.08.22.pdf">https://media.bloodcancer.org.uk/documents/Evusheld_Letter_to_Barclay_23.08.22.pdf</a> </p>
