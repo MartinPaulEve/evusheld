@@ -15,7 +15,7 @@ show_tile: false
  <ul class="difference">
                         <li>Write a letter to your MP</li>
                         <li>Contact the Health and Social Care Secretary and Prime Minister on <a href="https://twitter.com/i/flow/login">Twitter</a>
-                        <li>Join our vigil</li>
+                        <li>Join our vigil on the 26th October at 12.30pm in Parliament Square, where family and friends of the Forgotten 500,000 will be gathering to represent them.</li>
                         <li>Hear from the Forgotten 500k – stories and personal impact <a href="https://getevusheld.uk/hear-our-stories/">here</a></li>
 <br>
 <details>
@@ -25,11 +25,11 @@ show_tile: false
 
 <p><b>URGENT: EVUSHELD – PREVENTATIVE COVID-19 TREATMENT </b></p>
  
-<p>Dear <b><font color="navy">[INSERT NAME OF MP]</b>,</font></p>
+<p>Dear <b><font color="navy">[INSERT NAME OF MP]</font></b>,</p>
 <p>RE: EVUSHELD </p>
-<p><u><font color="navy">Option 1:</u></font> Many immunocompromised people like <b><font color="navy">[ME / MY LOVED ONE]</font></b>, who has <b><font color="navy">[CONDITION NAME]</font></b>, are still shielding/taking significant precautions, two years later, because we are at disproportionate risk of dying from Covid.</p>
+<p><font color="navy"><u>Option 1:</u></font> Many immunocompromised people like <b><font color="navy">[ME / MY LOVED ONE]</font></b>, who has <b><font color="navy">[CONDITION NAME]</font></b>, are still shielding/taking significant precautions, two years later, because we are at disproportionate risk of dying from Covid.</p>
 
-<p><u><font color="navy">Option 2:</u></font> I am writing on behalf of those who are still at disproportionate risk from Covid.</p>
+<p><font color="navy"><u>Option 2:</u></font> I am writing on behalf of those who are still at disproportionate risk from Covid.</p>
 
 <p>Immunocompromised people are also less likely to be protected by vaccines. There are over 500k people who are still at increased risk from this deadly disease, many of whom are still anxious and cannot ‘live with Covid’ like the rest of the country. <b>Evusheld is a treatment that aims to prevent Covid-19.</b></p>
 
@@ -42,7 +42,7 @@ show_tile: false
 <p><b>Please can you:</b></p>
 <ul class="difference">
                         <li><b>Write to the Secretary of State for Health and Social Care on my behalf and urge her to roll out Evusheld this winter.</b></li>
-                        <li><b>Join our vigil on the XXX at XXX in Parliament Square, where family and friends of the Forgotten 500,000 will be gathering to represent them.</b></li>
+                        <li><b>Join our vigil on the 26th October at 12.30pm in Parliament Square, where family and friends of the Forgotten 500,000 will be gathering to represent them.</b></li>
                         </ul>
 
 <p>I look forward to hearing from you as soon as possible.</p>
