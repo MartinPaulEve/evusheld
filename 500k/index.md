@@ -11,18 +11,9 @@ show_tile: false
 
 <br>
 
-<table class="tg" style="border:0px solid #000000;margin-left:auto;margin-right:auto;border-spacing: 3em;" >
-<thead>
-<tr>
-    <th class="tg-wp8o"><h1 style="margin : 0; padding-top:0;"><center><a href="https://getevusheld.uk/how-can-you-help/">HOW CAN</a><br style=
-        "line-height:0em"><u><a href="https://getevusheld.uk/how-can-you-help/">YOU HELP?</a></u></center></h1></th>
-    <th class="tg-wp8o"><h1 style="margin : 0; padding-top:0;"><center><a href="https://getevusheld.uk/about-evusheld/">ABOUT</a><br style=
-        "line-height:0em"><u><a href="https://getevusheld.uk/about-evusheld/">EVUSHELD</a></u></center></h1></th>
-    <th class="tg-wp8o"><h1 style="margin : 0; padding-top:0;"><center><a href="https://getevusheld.uk/hear-our-stories/">HEAR OUR</a><br style=
-        "line-height:0em"><u><a href="https://getevusheld.uk/hear-our-stories/">STORIES</a></u></center></h1></th>
-</tr>
-</thead>
-</table>
+<a href="https://getevusheld.uk/how-can-you-help/"><img src="https://getevusheld.uk/assets/images/landing_page/How_Can_You_Help.png" alt="" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" /></a><a href="https://getevusheld.uk/about-evusheld/"><img src="https://getevusheld.uk/assets/images/landing_page/About_Evusheld.png" alt="" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"/></a><a href="https://getevusheld.uk/hear-our-stories/"><img src="https://getevusheld.uk/assets/images/landing_page/Hear_Their_Stories.png" alt="" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"/></a>
+
+<p style="clear: both;">
 
 <br>
 
