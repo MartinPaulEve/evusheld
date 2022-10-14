@@ -69,5 +69,5 @@ show_tile: false
                         <li>Tweets for other supporters:</li>
                         <ul class="level_3">
                         <li>Help protect the #Forgotten500k and roll out Evusheld urgently @theresecoffey. We dealt with Covid together – we can’t leave them behind. </li>
-                    </ul>
+                    </ul></ul>
 </details>
