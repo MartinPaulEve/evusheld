@@ -19,7 +19,7 @@ show_tile: false
                         <li>Hear from the Forgotten 500k – stories and personal impact <a href="https://getevusheld.uk/hear-our-stories/">here</a></li>
 <br>
 <details>
-<summary><b><font size="+2">MP letter:</font></b></summary>
+<summary><b><font size="+2">MP letter template</font></b></summary>
 
 <p><font color="navy"><b>[INSERT YOUR ADRESS <br> <br> + POSTCODE]</b></font></p>
 
@@ -54,19 +54,19 @@ show_tile: false
 </details>
 
 <details>
-<summary><b><font size="+2">Contact the Health and Social Care Secretary and Prime Minister on Twitter</font></b></summary>
+<summary><b><font size="+2">Tweet templates</font></b></summary>
 
 <ul class="difference">
-                    <li>Tweets for the immunocompromised:</li>
+                    <li><u>Tweets for the immunocompromised:</u></li>
                     <ul class="level_3">
                         <li>Help the #Forgotten500k feel safe again @theresecoffey. We are still at risk from Covid – we need you to roll out Evusheld now.</li>
                         <li>Help the #Forgotten500k feel safe again @trussliz. We are still at risk from Covid – we need you to roll out Evusheld now.</li>
                     </ul>
-                    <li>Tweets for family members of the immunocompromised:</li>
+                    <li><u>Tweets for family members of the immunocompromised:</u></li>
                     <ul class="level_3">
                         <li>Help the #Forgotten500k feel safe again @trussliz. My loved ones are still at risk from Covid – we need you to roll out Evusheld now.</li>
                     </ul>
-                        <li>Tweets for other supporters:</li>
+                        <li><u>Tweets for other supporters:</u></li>
                         <ul class="level_3">
                         <li>Help protect the #Forgotten500k and roll out Evusheld urgently @theresecoffey. We dealt with Covid together – we can’t leave them behind. </li>
                     </ul></ul>
