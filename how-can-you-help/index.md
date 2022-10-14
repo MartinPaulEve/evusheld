@@ -30,15 +30,15 @@ show_tile: false
                                     <li>Help protect the #Forgotten500k and roll out Evusheld urgently @theresecoffey. We dealt with Covid together – we can’t leave them behind. </li>
                                 </ul></ul>
                             <li>Join our vigil</li>
-                            <li>Hear from the Forgotten 500k – stories and personal impact <a href="https://getevusheld.uk/hear-our-stories/">here</a></li></ul>
-
+                            <li>Hear from the Forgotten 500k – stories and personal impact <a href="https://getevusheld.uk/hear-our-stories/">here</a></li>
+<br>
 <details>
 <summary><b><font size="+2">MP letter:</font></b></summary>
-<br>
+
 <p><font color="white">[INSERT YOUR ADRESS <br> <br> + POSTCODE]</font></p>
-<br>
+
 <p><b>URGENT: EVUSHELD – PREVENTATIVE COVID-19 TREATMENT </b><p>
-<br>
+ 
 <p>Dear <font color="white">[INSERT NAME OF MP],</font></p>
 <p>RE: EVUSHELD </p>
 <p><font color="white"><u>Option 1:</u></font> Many immunocompromised people like <font color="white">[ME / MY LOVED ONE]</font>, who has <font color="white">[CONDITION NAME]</font>, are still shielding/taking significant precautions, two years later, because we are at disproportionate risk of dying from Covid.</p>
