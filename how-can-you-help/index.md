@@ -21,13 +21,13 @@ show_tile: false
 <details>
 <summary><b><font size="+2">MP letter:</font></b></summary>
 
-<p><font color="navy">[INSERT YOUR ADRESS <br> <br> + POSTCODE]</font></p>
+<p><font color="navy"><b>[INSERT YOUR ADRESS <br> <br> + POSTCODE]</b></font></p>
 
 <p><b>URGENT: EVUSHELD – PREVENTATIVE COVID-19 TREATMENT </b></p>
  
-<p>Dear <font color="navy">[INSERT NAME OF MP],</font></p>
+<p>Dear <font color="navy"><b>[INSERT NAME OF MP]</b>,</font></p>
 <p>RE: EVUSHELD </p>
-<p><font color="navy"><u>Option 1:</u></font> Many immunocompromised people like <font color="navy">[ME / MY LOVED ONE]</font>, who has <font color="navy">[CONDITION NAME]</font>, are still shielding/taking significant precautions, two years later, because we are at disproportionate risk of dying from Covid.</p>
+<p><font color="navy"><u>Option 1:</u></font> Many immunocompromised people like <font color="navy"><b>[ME / MY LOVED ONE]</b></font>, who has <font color="navy"><b>[CONDITION NAME]</b></font>, are still shielding/taking significant precautions, two years later, because we are at disproportionate risk of dying from Covid.</p>
 
 <p><font color="navy"><u>Option 2:</u></font> I am writing on behalf of those who are still at disproportionate risk from Covid.</p>
 
@@ -49,7 +49,7 @@ show_tile: false
 
 <p>Yours sincerely, </p>
 
-<p><font color="navy">[YOUR NAME]</font></p>
+<p><font color="navy"><b>[YOUR NAME]</b></font></p>
 
 </details>
 
