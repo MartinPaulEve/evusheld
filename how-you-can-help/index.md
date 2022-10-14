@@ -1,15 +1,13 @@
 ---
 layout: plain_orange_post
-title: 'How Can You Help'
+title: 'How You Can Help'
 landing-title: 'How Can You Help'
 description: null
 image: null
 author: null
 show_tile: false
 ---
-<h1><u>How Can You Help</u></h1>
-
-<h2>Make a difference - help today</h2>
+<h1><u>How You Can Help</u></h1>
 
 <h3>What you can do and how it will help:</h3>
 
