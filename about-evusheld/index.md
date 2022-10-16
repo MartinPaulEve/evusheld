@@ -89,7 +89,7 @@ This is because the individual and public health need for these treatments is co
 <p>A group of charities have been corresponding with the Secretary of State for Health and Social Care on Evusheld since August. Their letters are a useful way to understand both sides of the argument, and you can read them below. In summary, the Government is relying on lab-based data because they’ve dismissed the existing real-world evidence due to concerns about the methodologies used in some of the studies. On the other hand, we disagree with their stated reasons, and believe their dismissal of this evidence is out of step with standard practice among regulators like the MHRA.</p> 
  
 <ul>
-<li><a href="https://media.bloodcancer.org.uk/documents/Evusheld_Letter_to_Barclay_23.08.22.pdf">23 August 2022 letter from charities to Steve Barclay MP (the previous Secretary of State for Health)</a></li>
+<li><a href="/assets/downloads/2022-08-23-Evusheld-Charity-Letter-to-Barclay.pdf">23 August 2022 letter from charities to Steve Barclay MP (the previous Secretary of State for Health)</a></li>
 <li><a href="https://media.bloodcancer.org.uk/documents/1417253_-_Gemma_Peters_and_others.pdf">05 September 2022 letter from Steve Barclay MP to charities</a></li>
 <li><a href="https://getevusheld.uk/assets/downloads/2022-10-04-Letter-to-Coffey.pdf">21 September 2022 letter from Blood Cancer UK to Therese Coffey MP (the current Secretary of State for Health)</a></li>
 </ul>
@@ -97,7 +97,6 @@ This is because the individual and public health need for these treatments is co
 <p>Further, the patient-led campaign group, <a href="https://www.facebook.com/groups/692949675108155">Evusheld for the UK</a>, has also been corresponding with the government. Their letters offer similar rebuttals.</p>
 <ul>
 <li>Evusheld for the UK. 2022. ‘<a href="/assets/downloads/2022-09-16-Response-to-SoS.pdf">Response Letter to the New Secretary of State for Health</a>’. 20 September 2022.</li>
-<li>Evusheld for the UK. 2022. ‘<a href="/assets/downloads/2022-08-23-Evusheld-Charity-Letter-to-Barclay.pdf">Joint Charity Letter to Secretary of State for Health</a>’. 23 August 2022.</li>
 <li>Evusheld for the UK. 2022. ‘<a href="/assets/downloads/2022-08-12-DHSC-Response.pdf">Response to DHSC Shelving Plans for Evusheld in Winter 2022</a>’. 12 August 2022.</li>
 <li>Evusheld for the UK. 2022. ‘<a href="/assets/downloads/2022-08-10-Press-Release.pdf">Department of Health Plans to Deny Lifesaving Treatment to Vulnerable Patients</a>’. 10 August 2022.</li>
 <li>Evusheld for the UK. 2022. ‘<a href="/assets/downloads/2022-06-21-Press-Release.pdf">UK “Outlier” in Not Protecting 500,000+ Vulnerable Patients with New Lifesaving Drug. AstraZeneca Denies Government Claims of Further Testing</a>’. 21 June 2022.</li>
