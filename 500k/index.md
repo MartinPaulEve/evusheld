@@ -9,7 +9,7 @@ show_tile: false
 <img src="https://getevusheld.uk/assets/images/landing_page/Supported_by_Logos_v2.png">
 <br>
 
-<h4><center>Evusheld is a preventative treatment for Covid-19. <br> Over 500k people who are still at increased risk from this deadly <br> disease. The government must protect them. Evusheld could help.</center></h4>
+<h4><center>Evusheld is a preventative treatment for Covid-19. <br> There are over 500k people who are still at increased risk from this deadly disease. <br> The government must protect them. <br> Evusheld could help.</center></h4>
 
 <br>
 

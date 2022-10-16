@@ -7,6 +7,23 @@ image: null
 author: null
 show_tile: false
 ---
+<script>window.twttr = (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0],
+    t = window.twttr || {};
+  if (d.getElementById(id)) return t;
+  js = d.createElement(s);
+  js.id = id;
+  js.src = "https://platform.twitter.com/widgets.js";
+  fjs.parentNode.insertBefore(js, fjs);
+
+  t._e = [];
+  t.ready = function(f) {
+    t._e.push(f);
+  };
+
+  return t;
+}(document, "script", "twitter-wjs"));</script>
+
 <h1><u>How You Can Help</u></h1>
 
 <h3>What you can do and how it will help:</h3>
@@ -14,7 +31,7 @@ show_tile: false
 <details>
 <summary><b><font size="+2">Write a letter to your MP</font></b></summary>
 
-<p><b><font color="navy">[INSERT YOUR ADRESS <br> <br> + POSTCODE]</font></b></p>
+<p><b><font color="navy">[INSERT YOUR ADDRESS <br> <br> + POSTCODE]</font></b></p>
 
 <p><b>URGENT: EVUSHELD – PREVENTATIVE COVID-19 TREATMENT </b></p>
  
@@ -24,7 +41,7 @@ show_tile: false
 
 <p><font color="navy"><u>Option 2:</u></font> I am writing on behalf of those who are still at disproportionate risk from Covid.</p>
 
-<p>Immunocompromised people are also less likely to be protected by vaccines. There are over 500k people who are still at increased risk from this deadly disease, many of whom are still anxious and cannot ‘live with Covid’ like the rest of the country. <b>Evusheld is a treatment that aims to prevent Covid-19.</b></p>
+<p>Immunocompromised people are also less likely to be protected by vaccines. There are over 500k people who are still at increased risk from this deadly disease, many of whom are still anxious and cannot ‘live with Covid’ like the rest of the country. <b>Evusheld is a treatment that aims to prevent Covid-19 in patients who cannot respond to vaccines.</b></p>
 
 <p>Despite Evusheld receiving MHRA approval earlier this year, the Department of Health and Social Care has announced that it will not decide whether to procure the treatment until an appraisal is completed by the National Institute for Health and Care Excellence (NICE) in May 2023. Evusheld, however, is already being monitored as part of the RAPID C-19 initiative. Other Covid treatments and vaccines were monitored by RAPID C-19 then procured and made available before a NICE appraisal. This is because the individual and public health need for these treatments is considered greater and more urgent than the need to determine how cost-effective they are. There is a wealth of robust evidence demonstrating Evusheld’s effectiveness at preventing Covid-19 infection, and of reducing severity of illness. </p> 
 
@@ -49,26 +66,29 @@ show_tile: false
 
 
 <details>
-<summary><b><font size="+2">Contact the Health and Social Care Secretary and Prime Minister on <a href="https://twitter.com/i/flow/login">Twitter</a></font></b></summary>
+<summary><b><font size="+2">Contact Politicians on Twitter</font></b></summary>
 
 <ul class="difference">
                     <li><u>Tweets for the immunocompromised:</u></li>
                     <ul class="level_3">
-                        <li>Help the #Forgotten500k feel safe again @theresecoffey. We are still at risk from Covid – we need you to roll out Evusheld now.</li>
-                        <li>Help the #Forgotten500k feel safe again @trussliz. We are still at risk from Covid – we need you to roll out Evusheld now.</li>
-                    </ul><br>
+                        <li><a class="twitter-share-button" href="https://twitter.com/intent/tweet?text=Help%20the%20%23Forgotten500k%20feel%20safe%20again%20%40robertjenrick.%20We%20are%20still%20at%20risk%20from%20Covid%20%E2%80%93%20we%20need%20you%20to%20roll%20out%20Evusheld%20now." data-size="large">Tweet</a> Help the #Forgotten500k feel safe again @robertjenrick. We are still at risk from Covid – we need you to roll out Evusheld now.</li>                        
+                        <li><a class="twitter-share-button" href="https://twitter.com/intent/tweet?text=Help%20the%20%23Forgotten500k%20feel%20safe%20again%20%40theresecoffey.%20We%20are%20still%20at%20risk%20from%20Covid%20%E2%80%93%20we%20need%20you%20to%20roll%20out%20Evusheld%20now." data-size="large">Tweet</a> Help the #Forgotten500k feel safe again @theresecoffey. We are still at risk from Covid – we need you to roll out Evusheld now.</li>
+                        <li><a class="twitter-share-button" href="https://twitter.com/intent/tweet?text=Help%20the%20%23Forgotten500k%20feel%20safe%20again%20%40trussliz.%20We%20are%20still%20at%20risk%20from%20Covid%20%E2%80%93%20we%20need%20you%20to%20roll%20out%20Evusheld%20now." data-size="large">Tweet</a> Help the #Forgotten500k feel safe again @trussliz. We are still at risk from Covid – we need you to roll out Evusheld now.</li>
+                    </ul>
                     <li><u>Tweets for family members of the immunocompromised:</u></li>
                     <ul class="level_3">
-                        <li>Help the #Forgotten500k feel safe again @trussliz. My loved ones are still at risk from Covid – we need you to roll out Evusheld now.</li>
-                    </ul><br>
+                        <li><a class="twitter-share-button" href="https://twitter.com/intent/tweet?text=Help%20the%20%23Forgotten500k%20feel%20safe%20again%20%40robertjenrick.%20My%20loved%20ones%20are%20still%20at%20risk%20from%20Covid%20%E2%80%93%20we%20need%20you%20to%20roll%20out%20Evusheld%20now." data-size="large">Tweet</a> Help the #Forgotten500k feel safe again @robertjenrick. My loved ones are still at risk from Covid – we need you to roll out Evusheld now.</li>                        
+                        <li><a class="twitter-share-button" href="https://twitter.com/intent/tweet?text=Help%20the%20%23Forgotten500k%20feel%20safe%20again%20%40theresecoffey.%20My%20loved%20ones%20are%20still%20at%20risk%20from%20Covid%20%E2%80%93%20we%20need%20you%20to%20roll%20out%20Evusheld%20now." data-size="large">Tweet</a> Help the #Forgotten500k feel safe again @trussliz. My loved ones are still at risk from Covid – we need you to roll out Evusheld now.</li>
+                        <li><a class="twitter-share-button" href="https://twitter.com/intent/tweet?text=Help%20the%20%23Forgotten500k%20feel%20safe%20again%20%40trussliz.%20My%20loved%20ones%20are%20still%20at%20risk%20from%20Covid%20%E2%80%93%20we%20need%20you%20to%20roll%20out%20Evusheld%20now." data-size="large">Tweet</a> Help the #Forgotten500k feel safe again @theresecoffey. My loved ones are still at risk from Covid – we need you to roll out Evusheld now.</li>
+                    </ul>
                         <li><u>Tweets for other supporters:</u></li>
                         <ul class="level_3">
-                        <li>Help protect the #Forgotten500k and roll out Evusheld urgently @theresecoffey. We dealt with Covid together – we can’t leave them behind. </li>
+                        <li><a class="twitter-share-button" href="https://twitter.com/intent/tweet?text=Help%20protect%20the%20%23Forgotten500k%20and%20roll%20out%20Evusheld%20urgently%20%40robertjenrick.%20We%20dealt%20with%20Covid%20together%20%E2%80%93%20we%20can%E2%80%99t%20leave%20them%20behind." data-size="large">Tweet</a> Help protect the #Forgotten500k and roll out Evusheld urgently @robertjenrick. We dealt with Covid together – we can’t leave them behind. </li>
+                        <li><a class="twitter-share-button" href="https://twitter.com/intent/tweet?text=Help%20protect%20the%20%23Forgotten500k%20and%20roll%20out%20Evusheld%20urgently%20%40theresecoffey.%20We%20dealt%20with%20Covid%20together%20%E2%80%93%20we%20can%E2%80%99t%20leave%20them%20behind." data-size="large">Tweet</a> Help protect the #Forgotten500k and roll out Evusheld urgently @theresecoffey. We dealt with Covid together – we can’t leave them behind. </li>
+                        <li><a class="twitter-share-button" href="https://twitter.com/intent/tweet?text=Help%20protect%20the%20%23Forgotten500k%20and%20roll%20out%20Evusheld%20urgently%20%40trussliz.%20We%20dealt%20with%20Covid%20together%20%E2%80%93%20we%20can%E2%80%99t%20leave%20them%20behind." data-size="large">Tweet</a> Help protect the #Forgotten500k and roll out Evusheld urgently @trussliz. We dealt with Covid together – we can’t leave them behind. </li>
                     </ul></ul>
 
 </details>
-
-
 
 <details>
 <summary><b><font size="+2">Join our vigil</font></b></summary>
@@ -84,6 +104,6 @@ show_tile: false
 <details>
 <summary><b><font size="+2">Hear from the Forgotten 500k</font></b></summary>
 
-<p>You can find their stories and personal impact <a href="https://getevusheld.uk/hear-our-stories/">here</a></p>
+<p>Listen to and read their <a href="https://getevusheld.uk/hear-our-stories/">stories and personal impact statements</a>.</p>
 
 </details>
