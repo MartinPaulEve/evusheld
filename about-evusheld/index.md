@@ -17,7 +17,7 @@ landing-title: "About Evusheld"
 
 <p style="border-width:2px; border-style:solid; border-color:#FFFFFF; padding: 1em;">If you’re immunocompromised and test positive for Covid, see <a href="https://bloodcancer.org.uk/support-for-you/coronavirus-covid-19/covid-vaccine-blood-cancer/covid-antibody-treatment/"> Blood Cancer UK’s advice</a> to understand what to do next, and how the process differs across the four nations. Its website is specific to people with blood cancer, but the information is useful for anyone who is <a href="https://www.nhs.uk/conditions/coronavirus-covid-19/self-care-and-treatments-for-coronavirus/treatments-for-coronavirus/">eligible</a> for these treatments. Charities supporting patients with your condition may also have advice on their website.</p>
 
-<p>Yet the system through which these Covid treatments are delivered hasn’t been reliable. Only around 17% of people who become infected with Covid and are referred for treatment, actually receive it. In some instances, this is because someone doesn’t have symptoms, but we also know there are systemic issues in how these treatments are being delivered that mean that some people just can’t access them. Relying, then, on treatments given only after becoming infected with Covid is a terrifying prospect for people who are at very high risk of hospitalisation, and death. </p>
+<p>Yet the system through which these Covid treatments are delivered hasn’t been reliable. Only around 17% of people who become infected with Covid and are referred for treatment actually receive it. In some instances, this is because someone doesn’t have symptoms, but we also know there are systemic issues in how these treatments are being delivered that mean that some people just can’t access them. Relying, then, on treatments given only after becoming infected with Covid is a terrifying prospect for people who are at very high risk of hospitalisation, and death. </p>
 
 <p>Despite these treatments, many people with weakened immune systems are still at higher risk of poor outcomes and death from Covid. People with blood cancer, for example, are 12 times more likely to die from Covid than the general population, according to an analysis of ONS data by Blood Cancer UK. In people with a kidney transplant, the relative risk increased from 7 times higher than the general population in the first wave of Covid in 2020, to 26 times higher in the third wave in 2021. An analysis of intensive care data shows that, while only 1 in 134 of the population is immunocompromised, 1 in 11 of all people admitted to the ICU for Covid were immunocompromised, in the first half of this year.</p>
 
@@ -51,8 +51,12 @@ This is because the individual and public health need for these treatments is co
 
 <b><u>Links</u></b>
 
-<p>Discover more about Evusheld <a href="https://getevusheld.uk/4_media.html">here.</a> 
-</p>
+<ul>
+<li><a href="/3_evusheld.html">Learn more about Evusheld</a></li>
+<li><a href="/2_campaign.html">Help Us Campaign</a></li>
+<li><a href="/5_support.html">Support for Shielders</a></li>
+<li><a href="/6_clinical.html">Charity Letter and Clinical Consultation</a></li>
+</ul>
 
 
 <details>
@@ -62,14 +66,14 @@ This is because the individual and public health need for these treatments is co
  <p><b><u>Who are the 500,000 immunocompromised people in the UK? </u></b> </p>
 
 <p>There are <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1101797/Weekly_Flu_and_COVID-19_report_w35-2.pdf#page=77/">
-505,081</a> people on NHS England’s list of people who they consider severely immunosuppressed. In Wales and Scotland, this is <a href="https://phw.nhs.wales/topics/latest-information-on-novel-coronavirus-covid-19/103,992/">103,992 </a> and  <a href="https://public.tableau.com/app/profile/phs.covid.19/viz/COVID-19DailyDashboard_15960160643010/Overview/"> 85,208 </a> respectively (according to their spring booster eligibility lists). Unfortunately, this information isn’t publicly available for Northern Ireland. In total, there are therefore at least 694,281 people who are classified as immunocompromised in the UK for the purposes of determining their eligibility for additional vaccine doses. This number changes often, however, and each nation has different criteria that they use to decide whether someone is immunocompromised, or ‘severely’ immunocompromised. For that reason, we stick to the 500,000 number so as not to inadvertently overstate the number of people with weakened immune systems who remain at high risk from Covid. 
+505,081</a> people on NHS England’s list of people who they consider severely immunosuppressed. In Wales and Scotland, this is <a href="https://phw.nhs.wales/topics/latest-information-on-novel-coronavirus-covid-19/">103,992 </a> and  <a href="https://public.tableau.com/app/profile/phs.covid.19/viz/COVID-19DailyDashboard_15960160643010/Overview/"> 85,208 </a> respectively (according to their spring booster eligibility lists). Unfortunately, this information isn’t publicly available for Northern Ireland. In total, there are therefore at least 694,281 people who are classified as immunocompromised in the UK for the purposes of determining their eligibility for additional vaccine doses. This number changes often, however, and each nation has different criteria that they use to decide whether someone is immunocompromised, or ‘severely’ immunocompromised. For that reason, we stick to the 500,000 number so as not to inadvertently overstate the number of people with weakened immune systems who remain at high risk from Covid. 
 </p>
 <br>
  
  <b><u>Are any of the 500,000 immunocompromised protected by Covid vaccines? </u></b>
 <br>
  
-<p>Yes – people who are considered immunocompromised have a wide range of different health conditions, or are taking certain medical treatments, that weaken their immune system in different ways. Depending on various factors, some people are more protected by the Covid vaccines than others. There has been a great deal of <a href="https://bloodcancer.org.uk/support-for-you/coronavirus-covid-19/covid-vaccine-blood-cancer/covid-vaccine-efficacy-blood-cancer//">research </a>conducted among people with blood cancer, for example (of whom there are almost 280,000 in the UK) that shows that someone’s particular condition and cancer treatment impacts how their immune system responds to the vaccines. </p> 
+<p>Yes – people who are considered immunocompromised have a wide range of different health conditions, or are taking certain medical treatments, that weaken their immune system in different ways. Depending on various factors, some people are more protected by the Covid vaccines than others. There has been a great deal of <a href="https://bloodcancer.org.uk/support-for-you/coronavirus-covid-19/covid-vaccine-blood-cancer/covid-vaccine-efficacy-blood-cancer/">research </a>conducted among people with blood cancer, for example (of whom there are almost 280,000 in the UK) that shows that someone’s particular condition and cancer treatment impacts how their immune system responds to the vaccines. </p> 
 
 <p>The immune system has two key components related to B cells and T cells. Research suggests that B cells produce antibodies that help protect against and fight off infection, and T cells help protect against becoming seriously ill. While antibodies wane relatively quickly, T cells provide more durable protection – which lasts longer – and also protects against a broader range of Covid variants. Even though spikes in Covid cases are usually caused by new variants, T cells can provide some protection against those new variants despite not encountering them previously. It’s much easier to measure antibodies than it is to measure T cell activity, so while some immunocompromised people can get antibody tests, the results of these tests still won’t indicate to them exactly how protected they are against Covid. T cell tests do exist, but they tend to be expensive and are mostly available privately. There’s also uncertainty as to their accuracy. </p>
 
@@ -84,12 +88,20 @@ This is because the individual and public health need for these treatments is co
  
 <p>A group of charities have been corresponding with the Secretary of State for Health and Social Care on Evusheld since August. Their letters are a useful way to understand both sides of the argument, and you can read them below. In summary, the Government is relying on lab-based data because they’ve dismissed the existing real-world evidence due to concerns about the methodologies used in some of the studies. On the other hand, we disagree with their stated reasons, and believe their dismissal of this evidence is out of step with standard practice among regulators like the MHRA.</p> 
  
-<p>23 August 2022 letter from charities to Steve Barclay MP (the previous Secretary of State for Health): <a href="https://media.bloodcancer.org.uk/documents/Evusheld_Letter_to_Barclay_23.08.22.pdf">https://media.bloodcancer.org.uk/documents/Evusheld_Letter_to_Barclay_23.08.22.pdf</a> </p>
+<ul>
+<li><a href="https://media.bloodcancer.org.uk/documents/Evusheld_Letter_to_Barclay_23.08.22.pdf">23 August 2022 letter from charities to Steve Barclay MP (the previous Secretary of State for Health)</a></li>
+<li><a href="https://media.bloodcancer.org.uk/documents/1417253_-_Gemma_Peters_and_others.pdf">05 September 2022 letter from Steve Barclay MP to charities</a></li>
+<li><a href="https://getevusheld.uk/assets/downloads/2022-10-04-Letter-to-Coffey.pdf">21 September 2022 letter from Blood Cancer UK to Therese Coffey MP (the current Secretary of State for Health)</a></li>
+</ul>
 
-<p>05 September 2022 letter from Steve Barclay MP to charities: <a href="https://media.bloodcancer.org.uk/documents/1417253_-_Gemma_Peters_and_others.pdf">https://media.bloodcancer.org.uk/documents/1417253_-_Gemma_Peters_and_others.pdf</a> </p>
-
-<p>21 September 2022 letter from Blood Cancer UK to Therese Coffey MP (the current Secretary of State for Health): <a href="https://getevusheld.uk/assets/downloads/2022-10-04-Letter-to-Coffey.pdf">https://getevusheld.uk/assets/downloads/2022-10-04-Letter-to-Coffey.pdf</a></p>
- 
+<p>Further, the patient-led campaign group, <a href="https://www.facebook.com/groups/692949675108155">Evusheld for the UK</a>, has also been corresponding with the government. Their letters offer similar rebuttals.</p>
+<ul>
+<li>Evusheld for the UK. 2022. ‘<a href="/assets/downloads/2022-09-16-Response-to-SoS.pdf">Response Letter to the New Secretary of State for Health</a>’. 20 September 2022.</li>
+<li>Evusheld for the UK. 2022. ‘<a href="/assets/downloads/2022-08-23-Evusheld-Charity-Letter-to-Barclay.pdf">Joint Charity Letter to Secretary of State for Health</a>’. 23 August 2022.</li>
+<li>Evusheld for the UK. 2022. ‘<a href="/assets/downloads/2022-08-12-DHSC-Response.pdf">Response to DHSC Shelving Plans for Evusheld in Winter 2022</a>’. 12 August 2022.</li>
+<li>Evusheld for the UK. 2022. ‘<a href="/assets/downloads/2022-08-10-Press-Release.pdf">Department of Health Plans to Deny Lifesaving Treatment to Vulnerable Patients</a>’. 10 August 2022.</li>
+<li>Evusheld for the UK. 2022. ‘<a href="/assets/downloads/2022-06-21-Press-Release.pdf">UK “Outlier” in Not Protecting 500,000+ Vulnerable Patients with New Lifesaving Drug. AstraZeneca Denies Government Claims of Further Testing</a>’. 21 June 2022.</li>
+</ul>
 </details>
 
 

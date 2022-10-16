@@ -6,7 +6,7 @@ landing-title: "500k"
 author: null
 show_tile: false
 ---
-<img src="https://getevusheld.uk/assets/images/landing_page/Supported_by_Logos_v2.png">
+<img src="https://getevusheld.uk/assets/images/landing_page/Supported_by_Logos_v2.png" alt="Supported by Evusheld for the UK, Blood Cancer UK, Kidney Care UK, Action for Pulmonary Fibrosis, WMUK, Follicular Lymphoma, Lupus UK, Immunodeficiency UK, CLLI, Leukemia Care, Vasculitis UK, NKF, Myaware, Leukemia UK, Kidney Research UK, Anthony Nolan, CLL Ireland">
 <br>
 
 <h4><center>Evusheld is a preventative treatment for Covid-19. <br> There are over 500k people who are still at increased risk from this deadly disease. <br> The government must protect them. <br> Evusheld could help.</center></h4>
