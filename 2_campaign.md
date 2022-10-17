@@ -52,8 +52,5 @@ We need to generate as much attention as possible for this issue. If you have co
 ## Legal Advice
 If you are a lawyer with any background in disability discrimination, we would love to [hear from you](mailto:martin@eve.gd). 
 
-## Sign the Petition
-Please [sign this petition](https://petition.parliament.uk/petitions/611884). This is not as effective as writing to your MP, but it may still help.
-
 ## Share Information
 Please share new studies or news items with the group. If you don't use Facebook, please email them to [Martin Eve](mailto:martin@eve.gd).
