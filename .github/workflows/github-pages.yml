@@ -15,6 +15,13 @@ jobs:
           rubygems: 'latest'
           bundler-cache: true
       - uses: actions/checkout@v2
-      - uses:  helaili/jekyll-action@v2
+      - uses: limjh16/jekyll-action-ts@v2
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          enable_cache: true
+      - uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
+          # if the repo you are deploying to is <username>.github.io, uncomment the line below.
+          # if you are including the line below, make sure your source files are NOT in the master branch:
+          publish_branch: gh-pages
