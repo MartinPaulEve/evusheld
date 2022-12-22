@@ -1,0 +1,44 @@
+# site settings
+title: Evusheld for the UK
+subtitle: A Patient Campaigning Group
+email: martin@eve.gd
+description: We are a group of patients advocating for the availability of Evusheld in the UK
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: https://getevusheld.uk # the base hostname & protocol for your site
+author:
+street_address:
+city:
+state:
+zip_code:
+country:
+phone:
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 10
+
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+socials:
+  GitHub:
+  GitLab:
+  Google-Plus:
+  Instagram:
+  LinkedIn:
+  Twitter: https://twitter.com/evusheld4theuk
+  Facebook: https://www.facebook.com/groups/692949675108155
+  Slack:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md 
