@@ -1,19 +1,19 @@
 ---
-title: Learn more about Evusheld
+title: Learn more about monoclonal antibodies
 layout: page
-description: 'Find out more about this life-changing treatment.'
+description: 'Find out more about these life-changing treatments.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
-## What is Evusheld?
+## What is Evusheld/monoclonal antibodies?
 Evusheld is a combination of two long-acting antibodies (tixagevimab and cilgavimab). It’s a drug designed to protect clinically vulnerable people against Covid in cases where vaccines don’t work. A good example is people who have been on the chemotherapy drug Rituximab, [which causes much worse Covid outcomes and also reduces vaccine efficacy](https://doi.org/10.1016/S2665-9913(21)00418-5). Another example is people with primary or secondary immunodeficiency. Evusheld is given prophylactically (that is: in advance) to stop people in this situation developing severe Covid in the first place.
 
 As of 2023, the efficacy of Evusheld against circulating variants has been questioned. On the one hand, in vitro results (in experiments/lab conditions) show reduced neutralization. On the other hand, real-world studies continue to show protection.
 
 The second version of Evusheld is currently in clinical trials (dubbed: SUPERNOVA).
 
-## Who Should be Given Evusheld?
-Evusheld should be administered to all vulnerable people who are less likely to have mounted a response to vaccination. We believe that everybody listed in the NHS England RAPID-C19 report ‘[Defining the Highest-Risk Clinical Subgroups upon Community Infection with SARS-CoV-2 When Considering the Use of Neutralising Monoclonal Antibodies (NMABs) and Antiviral Drugs: Independent Advisory Group Report](https://www.gov.uk/government/publications/higher-risk-patients-eligible-for-covid-19-treatments-independent-advisory-group-report/defining-the-highest-risk-clinical-subgroups-upon-community-infection-with-sars-cov-2-when-considering-the-use-of-neutralising-monoclonal-antibodies)’ should receive Evusheld or other prophylactic monoclonal antibody therapy as they become available. 
+## Who Should be Given mAbs?
+Monoclonal antibodies should be administered to all vulnerable people who are less likely to have mounted a response to vaccination. We believe that everybody listed in the NHS England RAPID-C19 report ‘[Defining the Highest-Risk Clinical Subgroups upon Community Infection with SARS-CoV-2 When Considering the Use of Neutralising Monoclonal Antibodies (NMABs) and Antiviral Drugs: Independent Advisory Group Report](https://www.gov.uk/government/publications/higher-risk-patients-eligible-for-covid-19-treatments-independent-advisory-group-report/defining-the-highest-risk-clinical-subgroups-upon-community-infection-with-sars-cov-2-when-considering-the-use-of-neutralising-monoclonal-antibodies)’ should receive Evusheld or other prophylactic monoclonal antibody therapy as they become available. 
 
 ## When was Evusheld Authorized?
 Evusheld was authorised by the UK’s MHRA on the 17th March 2022. This means that it met [the UK regulatory standards of safety, quality and effectiveness](https://www.gov.uk/government/news/evusheld-approved-to-prevent-covid-19-in-people-whose-immune-response-is-poor). As a result, we were told, “the decision to grant approval for this treatment was endorsed by the government’s independent expert scientific advisory body, the Commission on Human Medicines, after carefully reviewing the evidence”. You would think this would mean that vulnerable people would, by now, have access to this lifesaving drug.
