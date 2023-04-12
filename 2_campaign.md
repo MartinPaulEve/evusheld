@@ -6,12 +6,17 @@ image: assets/images/pic11.jpg
 nav-menu: true
 ---
 ## Join the Group
-Our primary gathering place is on the [Evusheld for the UK Facebook Group](https://www.facebook.com/groups/692949675108155/). If you are on Facebook, do please join us there. We also have [a Twitter feed](https://twitter.com/evusheld4theuk) with up-to-date information. 
+Our primary gathering place is on the [Forgotten Lives UK Facebook Group](https://www.facebook.com/groups/692949675108155/). If you are on Facebook, do please join us there. We also have [a Twitter feed](https://twitter.com/evusheld4theuk) with up-to-date information. 
 
 ## What Does the Group Do?
-AstraZeneca’s Evusheld is a preventative (“prophylactic”) treatment for Covid, approved for UK use on the 17th March 2022. However, there has been no progress since then on the drug’s accessibility on the NHS or privately. This has prolonged the shielding imposed on so many of us across the UK.
+Approximately 1.2m people in the United Kingdom have conditions that render them more vulnerable to Covid. Our group advocates for their ongoing protection through prophylaxis and other preventative measures.
 
-Our group exists for one purpose: to get this drug introduced in the UK with access for all those who need it. This includes roll out to all vulnerable people who are less likely to have mounted a response to vaccination, as listed in the NHS England RAPID-C19 report ‘[Defining the Highest-Risk Clinical Subgroups upon Community Infection with SARS-CoV-2 When Considering the Use of Neutralising Monoclonal Antibodies (NMABs) and Antiviral Drugs: Independent Advisory Group Report](https://www.gov.uk/government/publications/higher-risk-patients-eligible-for-covid-19-treatments-independent-advisory-group-report/defining-the-highest-risk-clinical-subgroups-upon-community-infection-with-sars-cov-2-when-considering-the-use-of-neutralising-monoclonal-antibodies)’.
+We cover all vulnerable people who are less likely to have mounted a response to vaccination against Covid-19, as listed in, but not exclusive to, the NHS England RAPID-C19 report ‘[Defining the Highest-Risk Clinical Subgroups upon Community Infection with SARS-CoV-2 When Considering the Use of Neutralising Monoclonal Antibodies (NMABs) and Antiviral Drugs: Independent Advisory Group Report](https://www.gov.uk/government/publications/higher-risk-patients-eligible-for-covid-19-treatments-independent-advisory-group-report/defining-the-highest-risk-clinical-subgroups-upon-community-infection-with-sars-cov-2-when-considering-the-use-of-neutralising-monoclonal-antibodies)’.
+
+## Who Designed Your Logo and Site?
+Amanda Dantuma, of [Dantuma Design](https://www.dantumadesign.com/), designed our logo and brand. We are very grateful to her for her work. Please check out her site.
+
+The "Forgotten 500K Campaign" was designed and supported by [The&Partnership](https://theandpartnership.com/gb/) and [mSix&Partners](https://www.msixandpartners.com/).
 
 ## Who Do We Work With?
 To achieve our goal we need to enlist support from across the political spectrum. We need support from people in media, in health, and in any other avenue that will benefit us. Anybody with influence can help our campaign.

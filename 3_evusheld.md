@@ -8,6 +8,10 @@ nav-menu: true
 ## What is Evusheld?
 Evusheld is a combination of two long-acting antibodies (tixagevimab and cilgavimab). It’s a drug designed to protect clinically vulnerable people against Covid in cases where vaccines don’t work. A good example is people who have been on the chemotherapy drug Rituximab, [which causes much worse Covid outcomes and also reduces vaccine efficacy](https://doi.org/10.1016/S2665-9913(21)00418-5). Another example is people with primary or secondary immunodeficiency. Evusheld is given prophylactically (that is: in advance) to stop people in this situation developing severe Covid in the first place.
 
+As of 2023, the efficacy of Evusheld against circulating variants has been questioned. On the one hand, in vitro results (in experiments/lab conditions) show reduced neutralization. On the other hand, real-world studies continue to show protection.
+
+The second version of Evusheld is currently in clinical trials (dubbed: SUPERNOVA).
+
 ## Who Should be Given Evusheld?
 Evusheld should be administered to all vulnerable people who are less likely to have mounted a response to vaccination. We believe that everybody listed in the NHS England RAPID-C19 report ‘[Defining the Highest-Risk Clinical Subgroups upon Community Infection with SARS-CoV-2 When Considering the Use of Neutralising Monoclonal Antibodies (NMABs) and Antiviral Drugs: Independent Advisory Group Report](https://www.gov.uk/government/publications/higher-risk-patients-eligible-for-covid-19-treatments-independent-advisory-group-report/defining-the-highest-risk-clinical-subgroups-upon-community-infection-with-sars-cov-2-when-considering-the-use-of-neutralising-monoclonal-antibodies)’ should receive Evusheld or other prophylactic monoclonal antibody therapy as they become available. 
 
@@ -15,12 +19,12 @@ Evusheld should be administered to all vulnerable people who are less likely to 
 Evusheld was authorised by the UK’s MHRA on the 17th March 2022. This means that it met [the UK regulatory standards of safety, quality and effectiveness](https://www.gov.uk/government/news/evusheld-approved-to-prevent-covid-19-in-people-whose-immune-response-is-poor). As a result, we were told, “the decision to grant approval for this treatment was endorsed by the government’s independent expert scientific advisory body, the Commission on Human Medicines, after carefully reviewing the evidence”. You would think this would mean that vulnerable people would, by now, have access to this lifesaving drug.
 
 ## How Can I get Evusheld in the UK?
-It is impossible to get Evusheld in the UK, either on the NHS, or privately. [The Daily Mail ran an article](https://www.dailymail.co.uk/health/article-10746187/Covid-19-Vulnerable-patients-denied-800-anti-viral-jab-unless-private.html) highlighting this. However, they also implied that it was available privately if you could pay. This is not true. Private hospitals and clinics are unable, at the moment, to procure Evusheld.
+Evusheld can only be obtained privately in the UK.
 
-## Why has Evusheld Not Been Bought?
-Evusheld is now available in other comparable countries, such as France, Canada, Israel, and the US. Indeed, Kuala Lumpur has announced its intention to protect its population using Evusheld.
+## Why has Evusheld Not Been Bought on the NHS?
+Evusheld was available in other comparable countries, such as France, Canada, Israel, and the US. Indeed, Kuala Lumpur has announced its intention to protect its population using Evusheld.
 
-The UK government, however, has made no moves towards purchasing Evusheld so far. If 500,000 patients required the drug, we understand it would cost the taxpayer just £400m. This is just 4% of the cost of the PPE that was written off early in the Covid pandemic.
+The UK government, however, made no moves towards purchasing Evusheld.
 
 ## Are the Negotiations Around Evusheld "Commercially Sensitive"?
 A frequent response from MPs has been that they cannot discuss Evusheld because the negotiations are "commercially sensitive".
@@ -38,3 +42,6 @@ Second, antiviral treatments have proved difficult to access in a timely fashion
 
 ## Who Supports Evusheld?
 MPs from all parties have been engaged with this cause, including Graham Stuart, Vicky Foxcroft, Caroline Lucas, Andrew Gwynne, Daisy Cooper, Catherine West, Flick Drummond, Layla MOran, Stephen Crabb, Paul Davies, Munira Wilson, and Daniel Zeichner. Lord Mendelsohn has also been a champion in the House of Lords and we have also had supportive engagement from Baroness Morgan and Baroness Brinton.
+
+## Why This Page?
+Previously, our group was called Evusheld for the UK and we campaigned exclusively for this drug. As things have moved on, our focus has broadened, but Evusheld and successor drugs remain crucial to the protection of immunocompromised individuals in the pandemic.

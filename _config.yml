@@ -1,8 +1,8 @@
 # site settings
-title: Evusheld for the UK
+title: Forgotten Lives UK
 subtitle: A Patient Campaigning Group
 email: martin@eve.gd
-description: We are a group of patients advocating for the availability of Evusheld in the UK
+description: We are a group of patients advocating for the protection of the immunocompromised in the UK
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: https://getevusheld.uk # the base hostname & protocol for your site
 author:

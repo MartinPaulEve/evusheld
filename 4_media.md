@@ -1,7 +1,7 @@
 ---
 title: Official Documents, Media Coverage and Research Articles
 layout: page
-description: 'Read about Evusheld in the media.'
+description: 'Read about Forgotten Lives UK in the media.'
 image: assets/images/media.png
 nav-menu: true
 ---
@@ -57,7 +57,7 @@ These are articles in mainstream media/press releases about Evusheld in the UK, 
 * ‘[Individuals with Immunodeficiency at High Risk of Mortality Following SARS-CoV-2 Infection](https://www.birmingham.ac.uk/news/latest/2022/01/covid-immunodeficiency-death-risk-infection.aspx)’. 2022. University of Birmingham. 31 January 2022.
 
 
-## Research Articles, Preprints, Medical Opinion Pieces, and Policy Documents
+## Research Articles, Preprints, Medical Opinion Pieces, and Policy Documents about Evusheld
 These are formal research studies into the efficacy and dosage of Evusheld. These are arranged by alphabetical order of first author. We list here all articles (attempting a comprehensive literature review) rather than merely those with positive findings.
 
 Articles marked [PREPRINT] have not necessarily been subject to [peer review](https://en.wikipedia.org/wiki/Peer_review).

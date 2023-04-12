@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Patient stories
-description: Why is Evusheld so important?
+description: Lives that have been forgotten
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
