@@ -33,6 +33,7 @@ The Forgotten 500k Campaign had a profound impact on patient awareness, promptin
 Furthermore, the campaign directly led to the creation of global organisations dedicated to safeguarding immunocompromised patients. The Global Immunocompromised Health Coalition and the patient-led International Immunocompromised Advocacy Network (IIAN)  are just two examples of the enduring legacy of the Forgotten 500k Campaign. These groups have pledged to ensure that immunocompromised patients can speak strongly with one voice across all nations, and their needs and lives can no longer be forgotten.
  
 www.immunocompromisedcoalition.org
+
 https://iian.lawrencemouawad.com/
  
 In its wake, this ongoing campaign stands as a testament to the power of determined individuals working together to achieve and effect positive change, not only for themselves but for countless others around the world during this midst of the pandemic. The Forgotten 500k Campaign contains to advance the needs for immunocompromised patients in the UK and has made a significant step towards patient equality, highlighting the importance of listening to those who need it most, especially during times of crisis.
