@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "The Forgotten 500k Campaign: Patient Equality and Global Impact"
-description: In the spring of 2022 during the pandemic, a small group of individuals ignited a movement that would go on to become the largest patient equality campaign in the history of the United Kingdom, with far-reaching global consequences. This campaign, known as the Forgotten 500k, was born out of a dire need for immunocompromised patients to have their voices heard and their health safeguarded during the pandemic. Immunocompromised patients are extremely vulnerable to the virus due to their weakened immune system and lower responses to coronavirus vaccines.
+description: In the spring of 2022, during the pandemic, a small group of individuals ignited a movement that would go on to become the largest patient equality campaign in the history of the United Kingdom, with far-reaching global consequences.
 image: assets/images/sign.jpg
 nav-menu: true
 ---
